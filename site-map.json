@@ -1,0 +1,185 @@
+{
+  "name": "DischargeLoop",
+  "stage": "Research-stage concept website and isolated synthetic demo",
+  "page_count": 33,
+  "fallback": "Custom 404",
+  "routes": [
+    {
+      "path": "/",
+      "title": "DischargeLoop \u2014 A clear next step after every discharge",
+      "heading": "A clear next step.\nAfter every discharge."
+    },
+    {
+      "path": "/why-handoffs-break",
+      "title": "Why handoffs break \u00b7 DischargeLoop",
+      "heading": "Discharge is a moment.\nResponsibility keeps moving."
+    },
+    {
+      "path": "/products",
+      "title": "Five proposed modules \u00b7 DischargeLoop",
+      "heading": "Five responsibilities.\nOne handoff loop."
+    },
+    {
+      "path": "/products/discharge-desk",
+      "title": "Discharge Desk \u00b7 DischargeLoop",
+      "heading": "The discharge is recorded.\nThe next step is visible."
+    },
+    {
+      "path": "/products/discharge-review",
+      "title": "Discharge Review \u00b7 DischargeLoop",
+      "heading": "A thoughtful draft.\nA human next step."
+    },
+    {
+      "path": "/products/discharge-proof",
+      "title": "Discharge Proof \u00b7 DischargeLoop",
+      "heading": "Requested. Scheduled.\nActually documented."
+    },
+    {
+      "path": "/products/discharge-signal",
+      "title": "Discharge Signal \u00b7 DischargeLoop",
+      "heading": "A difference appears.\nThe decision stays human."
+    },
+    {
+      "path": "/products/discharge-report",
+      "title": "Discharge Report \u00b7 DischargeLoop",
+      "heading": "An evidence trail.\nWith the gaps intact."
+    },
+    {
+      "path": "/platform",
+      "title": "Shared workspace \u00b7 DischargeLoop",
+      "heading": "One episode.\nEvery source stays connected."
+    },
+    {
+      "path": "/how-it-works",
+      "title": "How it works \u00b7 DischargeLoop",
+      "heading": "Follow the exception.\nFind the next owner."
+    },
+    {
+      "path": "/demo",
+      "title": "Synthetic discharge demo \u00b7 DischargeLoop",
+      "heading": "One episode.\nThe whole handoff in view."
+    },
+    {
+      "path": "/solutions",
+      "title": "Who it serves \u00b7 DischargeLoop",
+      "heading": "The handoff is shared.\nThe ownership question differs."
+    },
+    {
+      "path": "/solutions/hospital-transitions",
+      "title": "Hospital transitions \u00b7 DischargeLoop",
+      "heading": "One service line.\nA visible next step."
+    },
+    {
+      "path": "/solutions/aco-population-health",
+      "title": "ACO population health \u00b7 DischargeLoop",
+      "heading": "Across settings.\nA defined receiving team."
+    },
+    {
+      "path": "/pilot",
+      "title": "Pilot & hypothetical pricing \u00b7 DischargeLoop",
+      "heading": "Start small.\nEarn the next step."
+    },
+    {
+      "path": "/request-audit",
+      "title": "20-minute handoff audit \u00b7 DischargeLoop",
+      "heading": "Bring one service line.\nFind the next decision."
+    },
+    {
+      "path": "/request-demo",
+      "title": "Guided concept walkthrough \u00b7 DischargeLoop",
+      "heading": "Walk the workflow.\nKeep the questions open."
+    },
+    {
+      "path": "/request-pilot",
+      "title": "Conditional pilot inquiry \u00b7 DischargeLoop",
+      "heading": "A scoped pilot\nstarts with a sponsor."
+    },
+    {
+      "path": "/evidence",
+      "title": "Evidence & evaluation \u00b7 DischargeLoop",
+      "heading": "Measure the work.\nKeep the denominator."
+    },
+    {
+      "path": "/oversight",
+      "title": "Human oversight \u00b7 DischargeLoop",
+      "heading": "A missing answer\nshould stay visible."
+    },
+    {
+      "path": "/integration-readiness",
+      "title": "Integration readiness \u00b7 DischargeLoop",
+      "heading": "Before the feed,\nestablish the right to use it."
+    },
+    {
+      "path": "/resources",
+      "title": "Resources \u00b7 DischargeLoop",
+      "heading": "Useful questions.\nA traceable place to start."
+    },
+    {
+      "path": "/resources/handoff-audit",
+      "title": "A handoff audit in 20 minutes. \u00b7 DischargeLoop",
+      "heading": "A handoff audit in 20 minutes."
+    },
+    {
+      "path": "/resources/pilot-scorecard",
+      "title": "Measure the handoff. Keep the open cases. \u00b7 DischargeLoop",
+      "heading": "Measure the handoff. Keep the open cases."
+    },
+    {
+      "path": "/resources/source-notes",
+      "title": "What the sources support. And what they do not. \u00b7 DischargeLoop",
+      "heading": "What the sources support. And what they do not."
+    },
+    {
+      "path": "/resources/workflow-teardown",
+      "title": "An unanswered call is still a handoff. \u00b7 DischargeLoop",
+      "heading": "An unanswered call is still a handoff."
+    },
+    {
+      "path": "/company",
+      "title": "Our approach \u00b7 DischargeLoop",
+      "heading": "The work continues\nafter the discharge."
+    },
+    {
+      "path": "/contact",
+      "title": "Business & research conversations \u00b7 DischargeLoop",
+      "heading": "A handoff worth\ntalking through."
+    },
+    {
+      "path": "/sign-in",
+      "title": "Sign in / Concept access \u00b7 DischargeLoop",
+      "heading": "Your next handoff.\nIn view."
+    },
+    {
+      "path": "/sign-in/help",
+      "title": "Access help \u00b7 DischargeLoop",
+      "heading": "A clearer route\nback to the concept."
+    },
+    {
+      "path": "/legal/privacy",
+      "title": "Preview privacy notice \u00b7 DischargeLoop",
+      "heading": "Preview privacy notice"
+    },
+    {
+      "path": "/legal/terms",
+      "title": "Concept preview terms \u00b7 DischargeLoop",
+      "heading": "Concept preview terms"
+    },
+    {
+      "path": "/accessibility",
+      "title": "Accessibility & motion \u00b7 DischargeLoop",
+      "heading": "Follow the story\nat your own pace."
+    }
+  ],
+  "aliases": {
+    "/pricing": "/pilot#commercial-model",
+    "/results": "/evidence",
+    "/about": "/company",
+    "/integrations": "/integration-readiness",
+    "/trust": "/oversight",
+    "/security": "/oversight",
+    "/privacy": "/legal/privacy",
+    "/terms": "/legal/terms"
+  },
+  "entry": "http://localhost:8732/",
+  "backend": "No form delivery, identity service, clinical endpoint, live source feed or analytics connected."
+}

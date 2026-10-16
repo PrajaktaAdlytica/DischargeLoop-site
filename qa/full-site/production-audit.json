@@ -1,0 +1,58 @@
+[
+  {
+    "h1": "A difference appears.\nThe decision stays human.",
+    "images": true,
+    "page": 1440,
+    "path": "/products/discharge-signal",
+    "route": true,
+    "width": 1440
+  },
+  {
+    "h1": "One episode.\nThe whole handoff in view.",
+    "images": true,
+    "page": 1440,
+    "path": "/demo",
+    "route": true,
+    "width": 1440
+  },
+  {
+    "h1": "Your next handoff.\nIn view.",
+    "images": true,
+    "page": 1440,
+    "path": "/sign-in",
+    "route": true,
+    "width": 1440
+  },
+  {
+    "h1": "Bring one service line.\nFind the next decision.",
+    "images": true,
+    "page": 1440,
+    "path": "/request-audit",
+    "route": true,
+    "width": 1440
+  },
+  {
+    "h1": "What the sources support. And what they do not.",
+    "images": true,
+    "page": 1440,
+    "path": "/resources/source-notes",
+    "route": true,
+    "width": 1440
+  },
+  {
+    "h1": "Preview privacy notice",
+    "images": true,
+    "page": 1440,
+    "path": "/legal/privacy",
+    "route": true,
+    "width": 1440
+  },
+  {
+    "h1": "This handoff needs\na new route.",
+    "images": true,
+    "page": 1440,
+    "path": "/missing-handoff",
+    "route": true,
+    "width": 1440
+  }
+]

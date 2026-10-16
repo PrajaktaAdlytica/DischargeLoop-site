@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/products/discharge-signal",
+    "colors": [
+      "rgb(16,45,58)",
+      "rgb(36,90,90)",
+      "rgb(128,163,155)"
+    ],
+    "transparent": true,
+    "uniqueColors": 3
+  },
+  {
+    "path": "/company",
+    "colors": [
+      "rgb(23,77,80)",
+      "rgb(91,136,130)",
+      "rgb(113,145,141)"
+    ],
+    "transparent": true,
+    "uniqueColors": 3
+  },
+  {
+    "path": "/sign-in",
+    "colors": [
+      "rgb(16,45,58)",
+      "rgb(22,75,78)",
+      "rgb(17,48,60)"
+    ],
+    "transparent": true,
+    "uniqueColors": 3
+  },
+  {
+    "path": "/legal/privacy",
+    "colors": [
+      "rgb(23,77,80)",
+      "rgb(36,88,87)",
+      "rgb(29,75,79)"
+    ],
+    "transparent": true,
+    "uniqueColors": 3
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-16",
+  "result": "PASS \u2014 local frontend final QA",
+  "scope": "DischargeLoop complete concept website, including the selected Unfinished Ledger intro, all public pages, local preview forms and sign-in presentation.",
+  "brief_ia_brand": {
+    "substantive_routes": 33,
+    "custom_404": true,
+    "aliases": 8,
+    "brief_content_checks": 16,
+    "brief_content_checks_missing": 0,
+    "coverage_source": "website-coverage.json"
+  },
+  "desktop_routes": {
+    "audited": 34,
+    "route_failures": 0,
+    "bad_h1_counts": 0,
+    "broken_images": 0,
+    "dead_hashes": 0,
+    "horizontal_overflow": 0
+  },
+  "mobile_routes": {
+    "audited": 34,
+    "missing_routes": 0,
+    "horizontal_overflow": 0,
+    "width_css_px": 390,
+    "additional_responsive_extreme_checks": 18
+  },
+  "compiled_preview_smoke": {
+    "homepage": "PASS \u2014 branded logo and favicon, one H1, sticky navigation, intro and story mounted",
+    "request_audit": "PASS \u2014 route/title/form fields render; sticky header; no overflow; browser console error-free",
+    "sign_in": "PASS \u2014 route/title/email-password fields and explicit preview copy render; no overflow; browser console error-free",
+    "build": "PASS \u2014 npm run build",
+    "sites_tests": "PASS \u2014 4/4"
+  },
+  "launch_notes": [
+    "The local preview has no public domain, canonical URL, or Open Graph title metadata. Add domain-specific canonical/share metadata when the deployment hostname is selected.",
+    "The browser emits Remotion\u2019s standard licensing reminder from the film runtime. It was left visible rather than suppressed; verify the applicable license before commercial deployment.",
+    "Authentication, lead delivery, email/calendar, EHR/source feeds, analytics, public deployment, and domain configuration are not connected. The site labels these flows as previews and synthetic data."
+  ],
+  "evidence": [
+    "qa/full-site/route-audit-desktop.json",
+    "qa/full-site/route-audit-mobile.json",
+    "qa/full-site/route-audit-tablet.json",
+    "qa/full-site/alias-audit.json",
+    "qa/full-site/production-audit.json",
+    "qa/refinement/brief-content-checks.json",
+    "qa/refinement/responsive-extremes.json",
+    "qa/intro-film/verification.json"
+  ]
+}

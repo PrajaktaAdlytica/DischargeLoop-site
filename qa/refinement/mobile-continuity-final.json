@@ -1,0 +1,750 @@
+[
+  {
+    "path": "/",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(25,80,82)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 19994,
+      "routeEnd": "12 19855",
+      "y": 19150
+    }
+  },
+  {
+    "path": "/why-handoffs-break",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(113,152,145)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 6075,
+      "routeEnd": "12 5936",
+      "y": 5231
+    }
+  },
+  {
+    "path": "/products",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(99,142,136)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 6224,
+      "routeEnd": "12 6085",
+      "y": 5380
+    }
+  },
+  {
+    "path": "/products/discharge-desk",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(39,95,93)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 8107,
+      "routeEnd": "12 7969",
+      "y": 7263.5
+    }
+  },
+  {
+    "path": "/products/discharge-review",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(40,96,94)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 8115,
+      "routeEnd": "12 7977",
+      "y": 7271
+    }
+  },
+  {
+    "path": "/products/discharge-proof",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(40,97,94)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 7998,
+      "routeEnd": "12 7860",
+      "y": 7154.5
+    }
+  },
+  {
+    "path": "/products/discharge-signal",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(42,98,96)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 7852,
+      "routeEnd": "12 7714",
+      "y": 7008
+    }
+  },
+  {
+    "path": "/products/discharge-report",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(40,97,94)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 8087,
+      "routeEnd": "12 7948",
+      "y": 7243
+    }
+  },
+  {
+    "path": "/platform",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(41,97,95)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5757,
+      "routeEnd": "12 5619",
+      "y": 4913.5
+    }
+  },
+  {
+    "path": "/how-it-works",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(95,139,133)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 6690,
+      "routeEnd": "12 6552",
+      "y": 5846.5
+    }
+  },
+  {
+    "path": "/demo",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(30,85,85)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5224,
+      "routeEnd": "12 5086",
+      "y": 4380
+    }
+  },
+  {
+    "path": "/solutions",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(141,175,165)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 4646,
+      "routeEnd": "12 4508",
+      "y": 3802
+    }
+  },
+  {
+    "path": "/solutions/hospital-transitions",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(127,163,155)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5416,
+      "routeEnd": "12 5277",
+      "y": 4572
+    }
+  },
+  {
+    "path": "/solutions/aco-population-health",
+    "top": {
+      "bg": "rgb(23,62,70)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(118,156,149)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5477,
+      "routeEnd": "12 5338",
+      "y": 4633
+    }
+  },
+  {
+    "path": "/pilot",
+    "top": {
+      "bg": "rgb(23,63,71)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(67,110,106)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 6931,
+      "routeEnd": "12 6793",
+      "y": 6087
+    }
+  },
+  {
+    "path": "/request-audit",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(29,73,78)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 4428,
+      "routeEnd": "12 4290",
+      "y": 3584
+    }
+  },
+  {
+    "path": "/request-demo",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(28,72,77)",
+      "y": 1688
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 4356,
+      "routeEnd": "12 4218",
+      "y": 3512.5
+    }
+  },
+  {
+    "path": "/request-pilot",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(34,88,87)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 4649,
+      "routeEnd": "12 4511",
+      "y": 3805
+    }
+  },
+  {
+    "path": "/evidence",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(35,91,90)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 6171,
+      "routeEnd": "12 6032",
+      "y": 5327
+    }
+  },
+  {
+    "path": "/oversight",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(32,84,85)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5730,
+      "routeEnd": "12 5592",
+      "y": 4886
+    }
+  },
+  {
+    "path": "/integration-readiness",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(38,93,92)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 6338,
+      "routeEnd": "12 6200",
+      "y": 5494.5
+    }
+  },
+  {
+    "path": "/resources",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(40,95,92)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 4915,
+      "routeEnd": "12 4777",
+      "y": 4071
+    }
+  },
+  {
+    "path": "/resources/handoff-audit",
+    "top": {
+      "bg": "rgb(23,63,71)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(40,95,94)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5469,
+      "routeEnd": "12 5331",
+      "y": 4625.5
+    }
+  },
+  {
+    "path": "/resources/pilot-scorecard",
+    "top": {
+      "bg": "rgb(23,63,71)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(61,113,109)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5718,
+      "routeEnd": "12 5580",
+      "y": 4874.5
+    }
+  },
+  {
+    "path": "/resources/source-notes",
+    "top": {
+      "bg": "rgb(23,63,71)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(63,114,111)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 6134,
+      "routeEnd": "12 5996",
+      "y": 5290
+    }
+  },
+  {
+    "path": "/resources/workflow-teardown",
+    "top": {
+      "bg": "rgb(23,63,71)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(41,96,94)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5566,
+      "routeEnd": "12 5428",
+      "y": 4722.5
+    }
+  },
+  {
+    "path": "/company",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(41,97,95)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5834,
+      "routeEnd": "12 5696",
+      "y": 4990
+    }
+  },
+  {
+    "path": "/contact",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(34,87,87)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 4435,
+      "routeEnd": "12 4296",
+      "y": 3591
+    }
+  },
+  {
+    "path": "/sign-in",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(21,69,74)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 3320,
+      "routeEnd": "12 3181",
+      "y": 2476
+    }
+  },
+  {
+    "path": "/sign-in/help",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(22,73,77)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 3148,
+      "routeEnd": "12 3010",
+      "y": 2304
+    }
+  },
+  {
+    "path": "/legal/privacy",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(37,90,89)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5329,
+      "routeEnd": "12 5191",
+      "y": 4485
+    }
+  },
+  {
+    "path": "/legal/terms",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(37,90,89)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5167,
+      "routeEnd": "12 5029",
+      "y": 4323.5
+    }
+  },
+  {
+    "path": "/accessibility",
+    "top": {
+      "bg": "rgb(23,77,80)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(41,96,95)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 5181,
+      "routeEnd": "12 5043",
+      "y": 4337
+    }
+  },
+  {
+    "path": "/missing-handoff",
+    "top": {
+      "bg": "rgb(16,45,58)",
+      "broken": 0,
+      "docWidth": 390,
+      "main": true,
+      "painted": 0,
+      "track": true,
+      "width": 390
+    },
+    "middle": {
+      "bg": "rgb(23,76,79)",
+      "y": 844
+    },
+    "end": {
+      "bg": "rgb(16,45,58)",
+      "height": 3268,
+      "routeEnd": "12 3130",
+      "y": 2424.5
+    }
+  }
+]

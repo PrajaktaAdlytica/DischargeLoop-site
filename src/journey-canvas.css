@@ -1,0 +1,38 @@
+/* One canvas, one route. No chapter owns an independent background. */
+.app{--world-bg:#F5F1E7;--world-ink:#102D3A;--world-muted:#526A70;--world-rule:#102D3A35;--world-signal:#A64116;background:var(--world-bg);color:var(--world-ink)}
+.app .warm-field,.app .harbor-scene,.app .homepage-extension,.app .suite-bridge,.app .hp-section,.app .hp-final,.app footer.hp-footer,.app .site-header{background:transparent!important;color:var(--world-ink)}
+.app .hp-section,.app .hp-final,.app footer.hp-footer{border-top:0;border-bottom:0}
+.app .harbor-cap,.app .chapter-connect .continuing-route,.app .hp-final:after{display:none}
+.warm-field{--scene-ink:var(--world-ink);--scene-muted:var(--world-muted);--scene-route:var(--world-ink);--scene-signal:var(--world-signal);--scene-rule:var(--world-rule);--scene-bg:var(--world-bg)}
+.page-journey-route{position:absolute;inset:0;pointer-events:none;z-index:2;overflow:visible;max-width:100%}
+.page-route-main,.page-route-branch{fill:none;stroke:#E77737;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}.page-route-node,.page-route-tip{fill:#E77737;stroke:none}.page-route-tip{filter:drop-shadow(0 0 5px #E7773766)}.page-route-branch{opacity:.55;stroke-width:1}
+.bridge-route-space{height:140px;margin-top:30px}.suite-bridge{overflow:visible}.workbench-port{border-left-color:transparent}.workbench-port span{display:none}
+/* Keep the actual product interfaces on stable, high-contrast surfaces. */
+.module-stage,.episode-object,.case-panel,.audience-workflow,.blocked-example,.scorecard,.pilot-commercial,.shared-view,.dialog{color:var(--ink)}
+/* Everything around the interfaces inherits the current canvas contrast. */
+.app .narrative-step .eyebrow,.app .narrative-step .lead,.app .ownership-note p,.app .scene-meta,.app .light-fine,.app .review-end,.app .draft-bottom,.app .draft-top button{color:var(--world-muted)}
+.app .light-link,.app .review-steps p,.app .draft-text{color:var(--world-ink)}.app .review-steps>div{border-color:var(--world-rule)}.app .review-steps span,.app .draft-top>span{color:var(--world-signal)}.app .draft-pane{border-color:var(--world-rule)}.app .draft-pane:before{border-color:var(--world-rule)}
+.app .suite-bridge>.section>.eyebrow,.app .hp-head .eyebrow,.app .hp-head-row>p,.app .case-intro>.eyebrow,.app .case-intro>p,.app .audience-copy>.eyebrow,.app .audience-copy>p,.app .incumbent-fit .eyebrow,.app .incumbent-fit>div>p,.app .incumbent-fit details p{color:var(--world-muted)}
+.app .hp-section-number>span:first-child{color:var(--world-muted);border-color:var(--world-rule)}
+.app .offering-note{color:var(--world-muted)}.app .offering-note strong{color:var(--world-ink)}
+.app .case-explorer,.app .case-tabs>button,.app .audience-switch,.app .incumbent-fit,.app .incumbent-fit details{border-color:var(--world-rule)}
+.app .case-tabs>button,.app .audience-switch>button{color:var(--world-muted)}.app .case-tabs>button[aria-selected=true],.app .audience-switch>button[aria-selected=true]{color:var(--world-ink)}.app .audience-switch>button[aria-selected=true]{border-bottom-color:var(--world-ink)}
+.app .hp-head-light .hp-head-row>p,.app .oversight-principles p,.app .readiness-disclosure,.app .evaluation-copy>.eyebrow,.app .evaluation-copy>p,.app .measure-note p,.app .source-section>div>.eyebrow,.app .source-section>div>p{color:var(--world-muted)}
+.app .oversight-principles>div,.app .readiness-disclosure,.app .measure-note,.app .source-section,.app .research-links>a{border-color:var(--world-rule)}
+.app .oversight-principles>div>svg,.app .readiness-disclosure>svg{color:var(--world-signal)}.app .readiness-disclosure strong{color:var(--world-ink)}
+.app .source-org{border-color:var(--world-rule)}.app .research-links small{color:var(--world-muted)}
+.app .pilot-path>div,.app .pilot-gates,.app .gate-list>div{border-color:var(--world-rule)}.app .pilot-number,.app .pilot-path p,.app .gate-list span,.app .pilot-gates>p,.app .stop-rule,.app .company-layout>div:nth-child(2)>p:not(.company-lead),.app .faq-intro>p,.app .faq-list details p,.app .hp-final p,.app .final-context{color:var(--world-muted)}
+.app .pilot-path>div>span:last-child,.app .stop-rule strong{color:var(--world-ink)}.app .stop-rule svg{color:var(--world-signal)}.app .faq-list details,.app .faq-list summary{border-color:var(--world-rule)}.app .faq-list summary svg{color:var(--world-ink)}
+.app #company .company-layout>div:first-child>.eyebrow,.app .faq-intro>.eyebrow,.app .final-topline>.eyebrow{color:var(--world-muted)}
+.app .hp-footer .footer-brand-row p,.app .footer-stage,.app .footer-columns h4,.app .footer-bottom,.app .footer-bottom button,.app .hp-footer .footer-disclosure{color:var(--world-muted)}
+.app .footer-columns>div>a,.app .footer-columns>div>button{color:var(--world-ink)}.app .footer-columns{border-color:var(--world-rule)}
+.app[data-world-tone=light] .hp-footer .footer-brand-row img,.app[data-world-tone=light] .site-header .brand{content:url('/brand/logos/logo-primary.svg')}
+.app[data-world-tone=dark] .hp-footer .footer-brand-row img,.app[data-world-tone=dark] .site-header .brand{content:url('/brand/logos/logo-reverse.svg')}
+.app[data-world-tone=dark] .text-link:focus-visible,.app[data-world-tone=dark] summary:focus-visible,.app[data-world-tone=dark] .hp-footer :focus-visible{outline-color:#F5F1E7}
+.app[data-world-tone=light] .hp-oversight :focus-visible,.app[data-world-tone=light] .hp-footer :focus-visible{outline-color:#A64116}
+@media(max-width:800px){.bridge-route-space{height:100px;margin-top:20px}.page-route-main{stroke-width:1.4}.page-route-branch{stroke-width:1}.app .site-header nav{background:var(--world-bg);color:var(--world-ink)}.app .site-header nav .mobile-audit-link{color:var(--world-signal)}}
+@media(max-width:560px){.bridge-route-space{height:90px;margin-top:15px}}
+.page-route-main,.page-route-branch{stroke:var(--world-route,#E77737)}.page-route-node,.page-route-tip{fill:var(--world-route,#E77737)}
+/* The route is decorative; its hue stays the approved buoy orange throughout. */
+.page-route-main{stroke-width:2}.page-route-branch{opacity:.8}
+@media(max-width:800px){.page-route-main{stroke-width:1.8}}

@@ -1,0 +1,44 @@
+{
+  "selected_direction": "02-unfinished-ledger",
+  "duration_seconds": 12,
+  "fps": 30,
+  "frames": 360,
+  "website": "http://localhost:8732/",
+  "studio": "http://localhost:8734/TheUnfinishedLedger",
+  "source_matches_embedded": true,
+  "composition_sha256": "aafca3f6195f99dbbd2c51e597ed4b9f17b111d5bdd88d42c3cb184e6a096c23",
+  "verified_viewports": [
+    [
+      320,
+      740
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      768,
+      1024
+    ],
+    [
+      850,
+      720
+    ],
+    [
+      1280,
+      720
+    ]
+  ],
+  "checks": {
+    "website_build": "pass",
+    "sites_tests": "4/4 pass",
+    "studio_lint_typescript": "pass",
+    "studio_bundle": "pass",
+    "compiled_homepage_errors": 0,
+    "compiled_signin_and_audit": "pass",
+    "pause_replay_seek_still_skip": "pass",
+    "offscreen_pause": "frame 11 held across checks",
+    "final_frame_hold": "359"
+  },
+  "rendered_mp4": false
+}

@@ -1,0 +1,1383 @@
+[
+  {
+    "path": "/",
+    "docWidth": 1440,
+    "h1": [
+      "A clear next step.After every discharge."
+    ],
+    "painted": [],
+    "route": "M1071.03125 591 L1071.03125 649 Q1071.03125 691 1113.03125 691 L1373 691 Q1415 691 1415 733 L1415 3957 Q1415 3999 1373 3999 L78 3999 Q36 3999 36 4041 L36 14947",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 14381
+      }
+    ],
+    "text": "CARE TRANSITIONS · CONCEPT PREVIEW\nA clear next step.\nAfter every discharge.\n\nClose the post-discharge handoff loop\nwithout replacing the care team.\n\nRequest a 20-minute audit\nFollow a discharge\n\nONE EPISODE.\nEVERY NEXT STEP IN VIEW.\n\nMira Vale / DL-001\nMonday · Discharged\n05 Oct 2026 · 14:00\nDEMO — SYNTHETIC DATA\nPCP appointment\nPending\nOwner: Care coordinator\nPharmacy pickup\nUnconfirmed\nOwner: Transitions pharmacist\nContact attempt\nNo answer\nOwner: Transitions RN\nMedication-list difference\nPharmacist review\nOwner: Clinical pharmacist\nFour items remain open.\nSYNTHETIC EPISODE / ONE SERVICE LINE\nSkip to the review\n01 / THE UNFINISHED HANDOFF\nDischarged is a moment.\nThe handoff keeps moving.\n\nOne person leaves. Four questions stay open.\nChoose a handoff to see what needs attention.\n\n01\nPCP appointment\n\nA follow-up request exists. An appointment confirmation does not.\n\nPending\n02\nPharmacy pickup\n\nA pharmacy is recorded. Pickup has not been confirmed.\n\nUnconfirmed\n03\nContact attempt\n\nA call was unanswered. The next review needs an owner.\n\nNo answer\n04\nMedication-list difference\n\nTwo source lists differ. A pharmacist must review the evidence.\n\nPharmacist review\n?\nMedication-list difference\n\nFictional entry DEMO-M04 appears in DS-DEMO-001 (Version A) and is absent from SOURCE-DEMO-002 (Version B). This flag does not establish which source is correct or recommend a medication change.\n\nView source\nTHE NEXT STEP NEEDS AN OWNER\n02 / A POINT OF RESPONSIBILITY\nA handoff needs\na next owner.\n\nSee what remains open, who reviews it, and the evidence behind the next step.\n\nAssigned doesn’t mean resolved.\n\nThe reviewer and next review time become visible. Mira’s four handoffs stay open.\n\nFollow the human review\nTuesday 06 Oct 2026 · Illustrative sequence\n03 / HUMAN REVIEW\nThe evidence appears.\nThe decision stays human.\n\nA source-linked difference. A draft that stays unsent. A named professional who reviews what happens next.\n\n01\n\nCompare the source records.\n\n02\n\nReview the proposed next step.\n\n03\n\nDocument the decision and owner.\n\nOpen the source evidence\n\nMedication differences are flagged for pharmacist or clinician review. The concept makes no treatment or billing determination.\n\nDISCHARGE JOURNEY · CONCEPT PREVIEW\nMira Vale / DL-001\n4 OPEN\nDischarged\nAssigned\nAwaiting review\nHANDOFF / OWNER\nNEXT REVIEW\nPCP appointment\nCare coordinator\nPending\nTue 06 Oct · 09:30\nPharmacy pickup\nTransitions pharmacist\nUnconfirmed\nTue 06 Oct · 10:00\nContact attempt\nTransitions RN\nNo answer\nTue 06 Oct · 09:15\nMedication-list difference\nClinical pharmacist\nPharmacist review\nTue 06 Oct · 10:00\nDEMO — SYNTHETIC DATA\nEPISODE REMAINS OPEN\nSELECTED EVIDENCE\nSOURCE-DEMO-002\nUNSENT — REQUIRES REVIEW\nReplay draft\n\nHi Mira, your care team would like to check in about your follow-up. Please let us know a good time to talk.\nA draft will appear during human review.\n\nPreview only. No message is sent.\nAwaiting a human decision\nFROM THE NEXT STEP TO THE WHOLE HANDOFF\nDifferent responsibilities.\nOne continuous thread.\n04\nTHE PROPOSED OFFERING\nFive responsibilities.\nOne handoff loop.\n\nEach module owns a specific piece of the work. Together, they are designed around the same episode, evidence and people.\n\n01\nDischarge Desk\nSee the work\n02\nDischarge Review\nPrepare the next contact\n03\nDischarge Proof\nFollow the referral\n04\nDischarge Signal\nSurface the difference\n05\nDischarge Report\nKeep the evidence\nPROPOSED MODULE · FIRST PILOT CANDIDATE\nDischarge Desk\n\nDischarge-event intake and prioritized work queue.\n\nFor transitions coordinators\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nDischarge exception queue\nOne service line\nAll 9\nPending 4\nBlocked 2\nCompleted 2\nRejected 1\nEPISODE\nOPEN ITEM / EVIDENCE\nSTATE\nMira Vale\nDL-001\n4 open handoffs\nPending\nArun Reed\nDL-002\nClosure documented\nCompleted\nLena Brooks\nDL-003\nPermission unknown\nBlocked\nNia Cole\nDL-004\nContact unanswered\nPending\nTheo Marsh\nDL-005\nPCP response pending\nPending\nEva Hart\nDL-006\nClosure documented\nCompleted\nIvo Lane\nDL-007\nSource unavailable\nBlocked\nRemi Dale\nDL-008\nDraft rejected in review\nRejected\nAda Wren\nDL-009\nReferral unconfirmed\nPending\nDEMO — SYNTHETIC DATA\nNINE FICTIONAL EPISODES\n\nThe first pilot candidate. Prioritisation rules need sponsor agreement; this is not clinical risk scoring.\n\nExplore this module\n\nFive proposed directions. The first pilot starts with one service line and one exception queue.\n\nSee the pilot scope\n05\nTHE SHARED WORKSPACE\nOne episode.\nEvery source stays connected.\n\nThe proposed workspace keeps the episode, permissions, responsible roles and exception history together as each handoff moves between people.\n\nDesk\nReview\nProof\nSignal\nReport\nSHARED DISCHARGE EPISODE\nMira Vale DL-001\n4 items open\nPEOPLE\nOwner + reviewer\nPERMISSIONS\nConsent + access state\nEVIDENCE\nSource + version + time\nHISTORY\nException + next action\nDEMO — SYNTHETIC DATA\nPROPOSED SHARED OBJECT MODEL\nTHE HONEST EDGE CASES\nNot every episode\nends in a closed loop.\n\nExplore three fictional states. Unknown evidence stays unknown, and missing permission stops the next action.\n\nNeeds review\nDocumented closure\nBlocked / abstained\nDL-001 / FICTIONAL EPISODE\n4 handoffs open\nMira Vale\nA difference is visible. The answer is still open.\n\nConflicting source lists, an unconfirmed appointment, unknown pickup and an unanswered call stay linked to the reviewers who own the next steps.\n\nResponsible role\nTransitions RN + clinical pharmacist\nSource reference\nDS-DEMO-001 / SOURCE-DEMO-002\nRecorded review\n06 Oct 2026 · 10:00\nAwaiting human review\nDEMO — SYNTHETIC DATA\nSYNTHETIC CASE, NOT MEASURED PERFORMANCE\n06\nWHERE THE WORK HAPPENS\nDesigned for the teams\nwho carry the handoff.\n\nStart with the people doing the work and the director accountable for it. Then establish who owns the budget, the source and the next decision.\n\nHospital transitions\nACO population health\nDISCHARGE-PLANNING DIRECTOR / OPERATIONS LEADER\nOne service line.\nA visible next step.\n\nMap where appointment, pharmacy and post-acute follow-up loses ownership after discharge. Test a focused exception queue against the work your team and existing systems already do.\n\nMap this workflow\nA PROPOSED HOSPITAL WORKFLOW\n01\nDischarge source\nOne agreed service line\n02\nTransitions queue\nOpen exceptions + current owner\n03\nReviewing team\nCoordinator, RN or pharmacist\n04\nDocumented next action\nSource + time + responsible role\nDEMO — SYNTHETIC DATA\nNO INTEGRATION OR COVERAGE CLAIM\nWORK WITH THE REALITY ON THE GROUND\nWhat does your current queue already close?\n\nCalls, fax, EHR tasks and referral platforms already cover parts of this workflow. The audit should establish a specific gap before adding another tool.\n\nExisting tools are part of the starting point\nIntegration is a discovery question\n07\nHUMAN ACCOUNTABILITY\nA missing answer\nshould stay visible.\n\nEvery proposed next step needs context, permission and the right reviewer. The preview shows when to pause as clearly as when to proceed.\n\nBlocked / Abstained\nLena Brooks DL-003\n\nPermission is unknown.\nThe referral source is stale.\n\nOutreach\nNot prepared for sending\nClosure\nNot inferred\nNext owner\nTransitions coordinator\nHuman permission review required\nDEMO — SYNTHETIC DATA\nDEMO / FICTIONAL CASE\nPermission before action\n\nReview consent, caregiver authority, language needs and the patient’s choice. Unknown permission keeps the action on hold.\n\nSources beside the question\n\nKeep the source, its version and timestamp with the exception. Missing or conflicting evidence can remain unresolved.\n\nA named human reviewer\n\nPharmacists and clinicians assess medication differences. Billing staff assess TCM evidence. No automatic determination is shown.\n\nA history that can be followed\n\nKeep the failed contact, escalation, next action and reviewer together. A reviewer’s documented decision must be attributable and reversible.\n\nBefore a live pilot: an operations sponsor, an authorised source route, written data-access/security approval and agreed human oversight. This concept preview is not a security certification.\n\n08\nEVIDENCE BEFORE EXPANSION\nMeasure the work.\nKeep the denominator.\n\nThe workflow exists. Whether this approach is worth adopting still needs to be tested against an observed baseline.\n\nPROPOSED PRIMARY MEASURE\nMedian staff minutes\nto documented\nhandoff closure.\n\nCompare with the existing workflow for a bounded cohort. Agree on whether “staff minutes” means active effort; track elapsed discharge-to-closure time separately.\n\nNo measured gain is claimed. Open cases remain in the denominator.\n\nPilot evaluation scorecard\nMethodology preview / Not results\nNot measured\nMEASURE\nBASELINE\nPILOT\nActive staff minutes / episode\nPrimary definition to agree\n—\n—\nElapsed discharge → closure\nSeparate duration measure\n—\n—\nTime to contact\nContact, not draft creation\n—\n—\nDocumented appointment closure\nEvidence threshold to agree\n—\n—\nUnreachable-case escalation completion\nGuardrail\n—\n—\nErroneous closure count\nGuardrail\n—\n—\n\nRecord cohort size, eligibility, baseline window, evidence source, still-open cases and uncertainty.\n\nTHE RESEARCH BEHIND THE WORKFLOW\nContext, with a source.\n\nOfficial guidance establishes the process. It does not establish outcomes for DischargeLoop.\n\nCMS\nTransitional Care Management\nThe service and documentation requirements behind the TCM evidence question.\nAHRQ\nMedication reconciliation\nWhy a source difference needs a defined clinical review process.\nAHRQ\nThe discharge handoff\nFollow-up arrangements, patient needs and receiving-clinician communication.\n09\nA SCOPED PATH FORWARD\nStart small.\nEarn the next step.\n\nBegin with a 20-minute handoff audit. Move toward a paid, time-boxed workflow pilot only when the sponsor, permissions and evaluation plan are in place.\n\n01\nHandoff audit\n\nMap one service line with a transitions director. Identify the current queue, its owner and the unresolved handoff.\n\n20-minute conversation\n02\nRetrospective map\n\nShadow the workflow and review a bounded discharge cohort with authorised access and human review.\n\nPermissioned process review\n03\nConditional paid pilot\n\nAgree the scope, operating owner, input contracts, evidence rules, time box and explicit review gate.\n\nOne service line first\nINITIAL SCOPE\nDischarge Desk.\nOne exception queue.\n\nStart with unsent outreach and appointment-closure visibility for one service line. Test against existing transitions contracts and current staff effort.\n\nDiscuss pilot fit\nHYPOTHETICAL TEST PRICE · NOT AN ACTIVE OFFER\n$2,500\nper facility\nper month\n\nPlus a hypothetical $5,000 setup fee.\n\nFor willingness-to-pay research. Scope, implementation cost and commercial terms remain to be validated. No checkout or reimbursement assurance.\n\nWhat must be true before a live pilot?\n\nA useful evaluation can also say stop. Reposition if there is no budget owner or authorised data route—or if the incumbent already closes these exceptions at comparable staff effort.\n\nWHY DISCHARGELOOP\nThe work continues\nafter the discharge.\n\nThe next step deserves a source, an owner, and a place to come back to.\n\nDischargeLoop is exploring a human-accountable operating layer for care transitions. The starting point is deliberately specific: one service line, a visible exception queue, and a measured reason to change the workflow. Expansion across service lines, post-acute networks and risk-bearing groups depends on permission, repeatable onboarding and demonstrated operational value.\n\nRegional hospital associations, ACO operations peers and post-acute referral partners are the first routes to learning from the teams doing this work. EHR implementation partners can help establish whether an authorised source route is practical.\n\nBring a workflow to the conversation\nBEFORE THE NEXT STEP\nA few questions,\nanswered clearly.\n\nStill mapping the fit?\nStart with your current workflow.\n\nTalk through a handoff\nIs DischargeLoop available as an operating product?\n\nDischargeLoop is a research-stage concept. This website uses synthetic examples to test workflow fit. No live EHR integrations, patient contact or clinical system writes are connected.\n\nAre these five separate products or one workflow?\nWhy add this if we already use an EHR or CarePort?\nCan it send messages or change a medication list?\nDoes the TCM packet guarantee a billable service?\nWhat would an integration need?\nWhat is the price?\nWhat happens in the 20-minute audit?\nWhat must be true before a live pilot?\nTHE NEXT POINT OF RESPONSIBILITY\nWhere does the handoff\nstop being visible?\n\nBring one service line.\nWe’ll start with the people, the process and the gaps.\n\nRequest a 20-minute handoff audit\nFollow Mira’s journey again\nFor discharge-planning directors, transitions operations leaders and ACO operators.\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "DischargeLoop — A clear next step after every discharge",
+    "width": 1440
+  },
+  {
+    "path": "/why-handoffs-break",
+    "docWidth": 1440,
+    "h1": [
+      "Discharge is a moment.Responsibility keeps moving."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4898",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 808,
+        "y": 90
+      },
+      {
+        "color": "#225A58",
+        "height": 1104,
+        "y": 898
+      },
+      {
+        "color": "#AFC9BE",
+        "height": 1031,
+        "y": 2002
+      },
+      {
+        "color": "#173E46",
+        "height": 843,
+        "y": 3032
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3876
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 4332
+      }
+    ],
+    "text": "DischargeLoop\n/\nWhy handoffs break\nWHY HANDOFFS BREAK\nDischarge is a moment.\nResponsibility keeps moving.\n\nAn appointment, an unanswered call and a source difference can all belong to the same episode—while living in different places.\n\nMap your current workflow\nExplore the synthetic demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nContact log\nNo answer · 09:10\nPCP request\nConfirmation unknown\nTwo source lists\nReview pending\nWho owns the next review?\n01\nTHE OPERATING BOTTLENECK\nThe event is known.\nThe next owner may not be.\nCurrent fragmented view\nProposed review view\nA PROCESS TO MAP\nFour places to look. An unclear next action.\n\nCalls, fax, EHR tasks and referral software already hold parts of the work. The question is where ownership or evidence becomes hard to see.\n\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nTHE SCATTERED EPISODE\nMira ValeDL-001\nMira’s handoffs remain open\nEvent received\nDS-DEMO-001 · 05 Oct, 14:00\n01\nOpen work identified\n4 unresolved items\n02\nOwner assigned\nCoordinator / RN / pharmacist\n03\nHuman review\nEvidence remains unresolved\n04\n\nAn attributed discharge source. Not a completed handoff.\n\n02\nINCUMBENTS ARE PART OF THE AUDIT\nAnother queue has to earn its place.\n\nThis is an established operating workflow. DischargeLoop must be tested against what the team and existing contracts already cover.\n\n01\nCalls, fax and EHR tasks\n\nMap the staff process, source locations and escalation rules. A manual workflow may already close an exception effectively.\n\n02\nBamboo Health Automated Transitions\n\nThe vendor markets event-triggered outreach, scheduling, human escalation and TCM documentation. This does not establish a missing capability for DischargeLoop.\n\nRead the vendor description\n03\nCarePort Transition\n\nThe vendor markets EHR-embedded referral creation and management. Confirm the actual contracted workflow and what it already resolves.\n\nRead the vendor description\n03\nA DECISION, NOT AN ASSUMPTION\nIf the gap isn’t there,\nthe audit should say so.\n01\nFind the owner\n\nConfirm who operates the workflow, who reviews exceptions and who could own the budget.\n\n02\nObserve the baseline\n\nSeparate active staff effort from elapsed time. Keep open episodes and corrections in view.\n\n03\nUse a real stop condition\n\nStop or reposition if there is no budget owner, no authorised data route, or the incumbent already closes the same exceptions at comparable staff effort.\n\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Why handoffs break · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/products",
+    "docWidth": 1440,
+    "h1": [
+      "Five responsibilities.One handoff loop."
+    ],
+    "painted": [],
+    "route": "M76.5 211.3359375 L56.25 211.3359375 Q36 211.3359375 36 231.5859375 L36 5131",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 830,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 1257,
+        "y": 920
+      },
+      {
+        "color": "#B9D0C4",
+        "height": 1237,
+        "y": 2177
+      },
+      {
+        "color": "#174D50",
+        "height": 696,
+        "y": 3414
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 4110
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 4565
+      }
+    ],
+    "text": "DischargeLoop\n/\nThe proposed offering\nTHE PROPOSED OFFERING\nFive responsibilities.\nOne handoff loop.\n\nA focused family of proposed modules, built around the same episode, the same sources and the people who review what happens next.\n\nExplore the first pilot\nExplore the synthetic demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nONE DISCHARGE EPISODE\nMira ValeDL-001\n4 items remain open\nEvent received\nDS-DEMO-001 · 05 Oct, 14:00\n01\nOpen work identified\n4 unresolved items\n02\nOwner assigned\nCoordinator / RN / pharmacist\n03\nHuman review\nEvidence remains unresolved\n04\n\nAn attributed discharge source. Not a completed handoff.\n\n01\nTHE COMPLETE OFFERING\nChoose the responsibility.\nSee the actual work.\n\nFive distinct offer tests. Discharge Desk is the first pilot candidate; the rest describe proposed directions, not live plans.\n\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nPROPOSED MODULE · FIRST PILOT CANDIDATE\nDischarge Desk\n\nDischarge-event intake and prioritized work queue.\n\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nDischarge exception queue\nOne service line\nAll 9\nPending 4\nBlocked 2\nCompleted 2\nRejected 1\nEPISODE\nOPEN ITEM / EVIDENCE\nSTATE\nMira Vale\nDL-001\n4 open handoffs\nPending\nArun Reed\nDL-002\nClosure documented\nCompleted\nLena Brooks\nDL-003\nPermission unknown\nBlocked\nNia Cole\nDL-004\nContact unanswered\nPending\nTheo Marsh\nDL-005\nPCP response pending\nPending\nEva Hart\nDL-006\nClosure documented\nCompleted\nIvo Lane\nDL-007\nSource unavailable\nBlocked\nRemi Dale\nDL-008\nDraft rejected in review\nRejected\nAda Wren\nDL-009\nReferral unconfirmed\nPending\nDEMO — SYNTHETIC DATA\nNINE FICTIONAL EPISODES\nExplore Discharge Desk\n02\nDISTINCT JOBS, SHARED CONTEXT\nEvery module keeps\nthe source in view.\n01\nDischarge Desk\n\nDischarge-event intake and prioritized work queue.\n\nFor transitions coordinators\n02\nDischarge Review\n\nConsent-aware patient/caregiver outreach drafts and documented escalation.\n\nFor transitions nurses and coordinators\n03\nDischarge Proof\n\nSpecialist/PCP appointment and referral closure tracker.\n\nFor referral and care coordinators\n04\nDischarge Signal\n\nMedication-discrepancy flagging for pharmacist/clinician review.\n\nFor pharmacist and clinician reviewers\n05\nDischarge Report\n\nTCM evidence/timeline packet and exception report for billing staff review.\n\nFor operations and billing reviewers\n03\nWHERE TO BEGIN\nOne service line.\nA reason to change the queue.\n\nFirst establish the operating gap, budget owner and authorised source route. If the incumbent already closes the same exception at comparable staff effort, another tool may not be justified.\n\nINITIAL CANDIDATE\nDischarge Desk\n\nException queue, unsent outreach and appointment-closure visibility. Written scope and human review before a live pilot.\n\nSee the pilot path\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Five proposed modules · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/products/discharge-desk",
+    "docWidth": 1440,
+    "h1": [
+      "The discharge is recorded.The next step is visible."
+    ],
+    "painted": [],
+    "route": "M76.5 157.8515625 L56.25 157.8515625 Q36 157.8515625 36 178.1015625 L36 5816",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 834,
+        "y": 90
+      },
+      {
+        "color": "#1E5354",
+        "height": 627,
+        "y": 924
+      },
+      {
+        "color": "#2B6461",
+        "height": 932,
+        "y": 1552
+      },
+      {
+        "color": "#BDD1C5",
+        "height": 720,
+        "y": 2484
+      },
+      {
+        "color": "#174D50",
+        "height": 816,
+        "y": 3204
+      },
+      {
+        "color": "#1E424A",
+        "height": 774,
+        "y": 4020
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 4794
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 5250
+      }
+    ],
+    "text": "DischargeLoop\n/\nDischargeLoop Discharge Desk / Proposed module\nDISCHARGELOOP DISCHARGE DESK / PROPOSED MODULE\nThe discharge is recorded.\nThe next step is visible.\n\nBring the discharge event, its source, open exceptions and next reviewer into one place. Start with one service line.\n\nRequest a handoff audit\nExplore this in the demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nDischarge exception queue\nOne service line\nAll 9\nPending 4\nBlocked 2\nCompleted 2\nRejected 1\nEPISODE\nOPEN ITEM / EVIDENCE\nSTATE\nMira Vale\nDL-001\n4 open handoffs\nPending\nArun Reed\nDL-002\nClosure documented\nCompleted\nLena Brooks\nDL-003\nPermission unknown\nBlocked\nNia Cole\nDL-004\nContact unanswered\nPending\nTheo Marsh\nDL-005\nPCP response pending\nPending\nEva Hart\nDL-006\nClosure documented\nCompleted\nIvo Lane\nDL-007\nSource unavailable\nBlocked\nRemi Dale\nDL-008\nDraft rejected in review\nRejected\nAda Wren\nDL-009\nReferral unconfirmed\nPending\nDEMO — SYNTHETIC DATA\nNINE FICTIONAL EPISODES\n01\nTHE OPERATING PROBLEM\nAn event can arrive before anyone owns what follows.\n\nDischarge feeds, EHR tasks and staff lists can each hold a different piece of the episode. The proposed queue brings attributed exceptions into one reviewable view; the audit first establishes whether an existing queue already does that job.\n\nRESPONSIBILITY\n\nDischarge-event intake and prioritized work queue.\n\nPRIMARY REVIEWERS\n\nTransitions coordinators\n\n02\nA TRACEABLE WORKFLOW\nFrom an input\nto a reviewable next step.\n01\nReceive the event\n\nKeep the source ID, version, discharge time and service line together. A notification is an input, not a complete patient record.\n\n02\nExpose the open work\n\nShow missing confirmation, stale evidence or unresolved ownership. Prioritisation follows agreed operational rules, never an invented clinical risk score.\n\n03\nAssign the next review\n\nName the responsible role, dated next action and escalation route. Assigned work stays open until its evidence threshold is met.\n\nSYNTHETIC WORKFLOW / STEP 01\nNew source\n1\n\nNew source\n\n2\n\nException identified\n\n3\n\nAssigned for review\n\n4\n\nEvidence still open\n\nIf a source is stale or a duplicate cannot be resolved, leave the episode flagged. Do not invent a fresh event or merge identities automatically.\n\n03\nTHE SOURCE CONTRACT\nWhat must arrive\nwith the work.\n\nInputs, permission states and exception criteria must be agreed with the sponsor. A website preview does not establish access to those sources.\n\n01\nDischarge event\n\nPermitted source route, recipient and event time\n\n02\nEpisode identity\n\nAgreed matching and duplicate-handling rules\n\n03\nException contract\n\nWhat counts as missing, stale or unresolved\n\n04\nReview owner\n\nService-line role and escalation responsibility\n\nExplore integration readiness\nNo live integration is connected.\n04\nOUTPUT, EVIDENCE AND LIMITS\nThe next handoff\nkeeps its context.\nPROPOSED OUTPUT\nA review queue with source provenance, ownership and a dated next action.\n\nDischarge Review can prepare an unsent outreach draft; Discharge Proof can follow appointment evidence. Both keep the original episode reference.\n\nSee the shared episode\nEVALUATION QUESTION / NOT RESULTS\nWhat would make this worth adopting?\n\nActive staff minutes spent locating, assigning and reviewing an exception, compared with the existing queue.\n\nNo measured gain is claimed.\nInspect the evaluation method\n\nThe first pilot candidate. Prioritisation rules need sponsor agreement; this is not clinical risk scoring.\n\n05\nBEFORE THE NEXT STEP\nQuestions for this workflow.\nDoes Desk replace our EHR?\n+\nHow is the work prioritised?\n+\nWhat is in the first pilot?\n+\nCONTINUE THROUGH THE SUITE\nDischarge Review\n\nPrepare the next contact\n\nExplore the next responsibility\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nBring this handoff\nto the audit.\n\nDiscuss Discharge Desk against the process your team already uses. Start with one service line.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Discharge Desk · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/products/discharge-review",
+    "docWidth": 1440,
+    "h1": [
+      "A thoughtful draft.A human next step."
+    ],
+    "painted": [],
+    "route": "M76.5 218.9765625 L56.25 218.9765625 Q36 218.9765625 36 239.2265625 L36 5794",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 813,
+        "y": 90
+      },
+      {
+        "color": "#1E5354",
+        "height": 627,
+        "y": 903
+      },
+      {
+        "color": "#2B6461",
+        "height": 932,
+        "y": 1530
+      },
+      {
+        "color": "#BDD1C5",
+        "height": 720,
+        "y": 2462
+      },
+      {
+        "color": "#174D50",
+        "height": 816,
+        "y": 3182
+      },
+      {
+        "color": "#1E424A",
+        "height": 774,
+        "y": 3998
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 4772
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 5228
+      }
+    ],
+    "text": "DischargeLoop\n/\nDischargeLoop Discharge Review / Proposed module\nDISCHARGELOOP DISCHARGE REVIEW / PROPOSED MODULE\nA thoughtful draft.\nA human next step.\n\nKeep the draft, contact permission, language needs and failed-contact escalation together—before anyone reaches out.\n\nRequest a handoff audit\nExplore this in the demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nOutreach review\nMira Vale · DL-001\nContact permission\nReviewer to confirm\nLanguage / caregiver\nReview required\nDRAFT ONLY · UNSENT\n\nHi Mira, your care team would like to check in about your follow-up. Please let us know a good time to talk.\nHi Mir\n\nHuman review before any contact\n06 Oct · 09:10\nContact attempt unanswered\n06 Oct · 09:15\nEscalated to transitions RN\nDEMO — SYNTHETIC DATA\nHISTORICAL SYNTHETIC LOG\n01\nTHE OPERATING PROBLEM\nA prepared message can look deceptively like a completed contact.\n\nA draft, an attempted call and an interactive conversation are different events. Keep permission, caregiver authority, language needs and the escalation record beside the proposed outreach.\n\nRESPONSIBILITY\n\nConsent-aware patient/caregiver outreach drafts and documented escalation.\n\nPRIMARY REVIEWERS\n\nTransitions nurses and coordinators\n\n02\nA TRACEABLE WORKFLOW\nFrom an input\nto a reviewable next step.\n01\nCheck the contact context\n\nReview permission state, patient choice, caregiver authority and language needs. Unknown permission pauses the action.\n\n02\nPrepare an unsent draft\n\nShow the proposed words to a named reviewer. The draft is not proof of contact and this preview cannot send it.\n\n03\nKeep the failed attempt visible\n\nRetain the original unanswered attempt, its timestamp, the escalation time and receiving role. A new task does not erase the earlier attempt.\n\nSYNTHETIC WORKFLOW / STEP 01\nPermission to review\n1\n\nPermission to review\n\n2\n\nDraft prepared\n\n3\n\nUnsent / human review\n\n4\n\nEscalation documented\n\nLena’s unknown contact permission blocks preparation for sending. The receiving coordinator reviews the missing permission; no outreach is inferred.\n\n03\nTHE SOURCE CONTRACT\nWhat must arrive\nwith the work.\n\nInputs, permission states and exception criteria must be agreed with the sponsor. A website preview does not establish access to those sources.\n\n01\nPermission state\n\nContact rights and caregiver authority to review\n\n02\nCommunication needs\n\nPatient choice and language requirements\n\n03\nAttempt history\n\nAttributed time, channel and recorded outcome\n\n04\nEscalation rule\n\nNext reviewer and agreed exception criteria\n\nExplore integration readiness\nNo live integration is connected.\n04\nOUTPUT, EVIDENCE AND LIMITS\nThe next handoff\nkeeps its context.\nPROPOSED OUTPUT\nAn unsent draft and a documented escalation for the identified reviewer.\n\nDischarge Proof follows referral milestones; Discharge Report keeps contact and escalation evidence in the review packet.\n\nSee the shared episode\nEVALUATION QUESTION / NOT RESULTS\nWhat would make this worth adopting?\n\nTime to documented contact and unreachable-case escalation completion. Draft generation is not counted as contact.\n\nNo measured gain is claimed.\nInspect the evaluation method\n\nNo contact is made by this preview. An unsent draft or scheduling message is not completed interactive contact.\n\n05\nBEFORE THE NEXT STEP\nQuestions for this workflow.\nDoes this preview contact patients?\n+\nWhat happens if permission is unknown?\n+\nDoes a draft satisfy TCM contact requirements?\n+\nCONTINUE THROUGH THE SUITE\nDischarge Proof\n\nFollow the referral\n\nExplore the next responsibility\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nBring this handoff\nto the audit.\n\nDiscuss Discharge Review against the process your team already uses. Start with one service line.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Discharge Review · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/products/discharge-proof",
+    "docWidth": 1440,
+    "h1": [
+      "Requested. Scheduled.Actually documented."
+    ],
+    "painted": [],
+    "route": "M76.5 181.6328125 L56.25 181.6328125 Q36 181.6328125 36 201.8828125 L36 5791",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 810,
+        "y": 90
+      },
+      {
+        "color": "#1E5354",
+        "height": 627,
+        "y": 900
+      },
+      {
+        "color": "#2B6461",
+        "height": 932,
+        "y": 1528
+      },
+      {
+        "color": "#BDD1C5",
+        "height": 720,
+        "y": 2460
+      },
+      {
+        "color": "#174D50",
+        "height": 816,
+        "y": 3179
+      },
+      {
+        "color": "#1E424A",
+        "height": 774,
+        "y": 3995
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 4770
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 5225
+      }
+    ],
+    "text": "DischargeLoop\n/\nDischargeLoop Discharge Proof / Proposed module\nDISCHARGELOOP DISCHARGE PROOF / PROPOSED MODULE\nRequested. Scheduled.\nActually documented.\n\nDistinguish a requested referral from a confirmed appointment, an attended visit and a documented handoff closure.\n\nRequest a handoff audit\nExplore this in the demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nReferral closure ledger\nMira Vale · DL-001\nPrimary care follow-up\n\nResponsible role / Care coordinator\n\nReferral requested\n05 Oct · Source recorded\nRecorded\nAppointment confirmed\nConfirmation pending\nOpen\nVisit attendance\nNot verified\nOpen\nHandoff closure\nEvidence incomplete\nOpen\nAn appointment request is not a documented closure.\nDEMO — SYNTHETIC DATA\nSOURCE / REFERRAL-DEMO-001\n01\nTHE OPERATING PROBLEM\nA referral request can disappear inside a green “done” state.\n\nThe receiving team needs to know which milestone has evidence. A request is not confirmation, confirmation is not attendance, and attendance alone is not a defined handoff closure.\n\nRESPONSIBILITY\n\nSpecialist/PCP appointment and referral closure tracker.\n\nPRIMARY REVIEWERS\n\nReferral and care coordinators\n\n02\nA TRACEABLE WORKFLOW\nFrom an input\nto a reviewable next step.\n01\nRecord the request\n\nAttribute the specialist or PCP referral to its source and responsible coordinator. Keep acceptance and appointment status separate.\n\n02\nFollow each milestone\n\nRepresent confirmation, attendance and remaining barriers as their own fields. Missing evidence stays unknown.\n\n03\nReview the closure checklist\n\nA named professional compares the evidence with agreed rules and records the decision. The concept does not silently close the loop.\n\nSYNTHETIC WORKFLOW / STEP 01\nReferral requested\n1\n\nReferral requested\n\n2\n\nConfirmation pending\n\n3\n\nAttendance unverified\n\n4\n\nClosure reviewed\n\nMira has a PCP slot requested, with no confirmation or attendance evidence. The ledger keeps later milestones open.\n\n03\nTHE SOURCE CONTRACT\nWhat must arrive\nwith the work.\n\nInputs, permission states and exception criteria must be agreed with the sponsor. A website preview does not establish access to those sources.\n\n01\nReferral source\n\nRequest, receiving destination and source time\n\n02\nAppointment evidence\n\nConfirmation and scheduling status\n\n03\nVisit evidence\n\nAttendance or completion evidence, if authorised\n\n04\nClosure checklist\n\nDocumented criteria and reviewing role\n\nExplore integration readiness\nNo live integration is connected.\n04\nOUTPUT, EVIDENCE AND LIMITS\nThe next handoff\nkeeps its context.\nPROPOSED OUTPUT\nA clear milestone ledger showing what is confirmed and what still needs evidence.\n\nDischarge Report can include the referral ledger, the sources supporting each milestone and any missing closure evidence.\n\nSee the shared episode\nEVALUATION QUESTION / NOT RESULTS\nWhat would make this worth adopting?\n\nDocumented appointment/referral closure using an agreed evidence threshold, denominator and observation window.\n\nNo measured gain is claimed.\nInspect the evaluation method\n\nRequested does not mean scheduled. Scheduled does not mean attended or closed.\n\n05\nBEFORE THE NEXT STEP\nQuestions for this workflow.\nCan a scheduled visit be shown as closed?\n+\nWho defines closure?\n+\nWhat about post-acute network information?\n+\nCONTINUE THROUGH THE SUITE\nDischarge Signal\n\nSurface the difference\n\nExplore the next responsibility\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nBring this handoff\nto the audit.\n\nDiscuss Discharge Proof against the process your team already uses. Start with one service line.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Discharge Proof · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/products/discharge-signal",
+    "docWidth": 1440,
+    "h1": [
+      "A difference appears.The decision stays human."
+    ],
+    "painted": [],
+    "route": "M76.5 154.1875 L56.25 154.1875 Q36 154.1875 36 174.4375 L36 5741",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#1E5354",
+        "height": 627,
+        "y": 850
+      },
+      {
+        "color": "#2B6461",
+        "height": 932,
+        "y": 1477
+      },
+      {
+        "color": "#BDD1C5",
+        "height": 720,
+        "y": 2409
+      },
+      {
+        "color": "#174D50",
+        "height": 816,
+        "y": 3129
+      },
+      {
+        "color": "#1E424A",
+        "height": 774,
+        "y": 3945
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 4720
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 5175
+      }
+    ],
+    "text": "DischargeLoop\n/\nDischargeLoop Discharge Signal / Proposed module\nDISCHARGELOOP DISCHARGE SIGNAL / PROPOSED MODULE\nA difference appears.\nThe decision stays human.\n\nPut a possible medication-list difference beside its sources and reviewing professional. Keep uncertainty visible.\n\nRequest a handoff audit\nExplore this in the demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nSource comparison\nAwaiting pharmacist review\nDischarge list\nDS-DEMO-001\n05 Oct 2026 · Version A\n\nDEMO-M04\nListed in this source.\n\n≠\nFollow-up list\nSOURCE-DEMO-002\n06 Oct 2026 · Version B\n\nDEMO-M04\nNot listed in this source.\n\nCP\nClinical pharmacist\nAssigned reviewer · Next review 06 Oct, 10:00\nView the attributed evidence\nDifference flagged. No medication change recommended.\nDEMO — SYNTHETIC DATA\nNO CLINICAL DETERMINATION\n01\nTHE OPERATING PROBLEM\nTwo lists disagree. The source of the difference gets lost.\n\nThe proposed module places an attributed source difference beside the pharmacist or clinician who reviews it. Flagging a difference does not determine which list is correct.\n\nRESPONSIBILITY\n\nMedication-discrepancy flagging for pharmacist/clinician review.\n\nPRIMARY REVIEWERS\n\nPharmacist and clinician reviewers\n\n02\nA TRACEABLE WORKFLOW\nFrom an input\nto a reviewable next step.\n01\nKeep both sources\n\nShow document ID, version, time and permission context for each list. Preserve the original attributed records.\n\n02\nFlag the uncertainty\n\nMake the mismatch inspectable without turning it into a diagnosis, dosage instruction or treatment recommendation.\n\n03\nRoute to a professional\n\nAssign pharmacist or clinician review. The source-linked question remains unresolved until that professional documents a decision.\n\nSYNTHETIC WORKFLOW / STEP 01\nSources attributed\n1\n\nSources attributed\n\n2\n\nDifference flagged\n\n3\n\nUncertainty visible\n\n4\n\nProfessional review pending\n\nIf a source is missing, stale or contradictory, abstain from determining the correct list. Keep the uncertainty and reviewer visible.\n\n03\nTHE SOURCE CONTRACT\nWhat must arrive\nwith the work.\n\nInputs, permission states and exception criteria must be agreed with the sponsor. A website preview does not establish access to those sources.\n\n01\nSource A\n\nVersioned discharge-list reference\n\n02\nSource B\n\nVersioned follow-up-list reference\n\n03\nProvenance\n\nSource rights, timestamps and document context\n\n04\nReviewer\n\nNamed pharmacist or clinician responsibility\n\nExplore integration readiness\nNo live integration is connected.\n04\nOUTPUT, EVIDENCE AND LIMITS\nThe next handoff\nkeeps its context.\nPROPOSED OUTPUT\nAn attributed discrepancy flag awaiting pharmacist or clinician review.\n\nDischarge Report retains the source references and outstanding review status without transforming a flag into clinical advice.\n\nSee the shared episode\nEVALUATION QUESTION / NOT RESULTS\nWhat would make this worth adopting?\n\nReview effort and erroneous closure count. No clinical outcome or reconciliation accuracy is claimed from synthetic records.\n\nNo measured gain is claimed.\nInspect the evaluation method\n\nNo automatic reconciliation, dosage advice, diagnosis or treatment recommendation.\n\n05\nBEFORE THE NEXT STEP\nQuestions for this workflow.\nDoes Signal reconcile medication lists automatically?\n+\nWill it recommend a medication change?\n+\nCan I upload real records to this website?\n+\nCONTINUE THROUGH THE SUITE\nDischarge Report\n\nKeep the evidence\n\nExplore the next responsibility\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nBring this handoff\nto the audit.\n\nDiscuss Discharge Signal against the process your team already uses. Start with one service line.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Discharge Signal · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/products/discharge-report",
+    "docWidth": 1440,
+    "h1": [
+      "An evidence trail.With the gaps intact."
+    ],
+    "painted": [],
+    "route": "M76.5 234.5234375 L56.25 234.5234375 Q36 234.5234375 36 254.7734375 L36 5762",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 844,
+        "y": 90
+      },
+      {
+        "color": "#1E5354",
+        "height": 564,
+        "y": 934
+      },
+      {
+        "color": "#2B6461",
+        "height": 932,
+        "y": 1498
+      },
+      {
+        "color": "#BDD1C5",
+        "height": 720,
+        "y": 2430
+      },
+      {
+        "color": "#174D50",
+        "height": 816,
+        "y": 3150
+      },
+      {
+        "color": "#1E424A",
+        "height": 774,
+        "y": 3966
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 4740
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 5196
+      }
+    ],
+    "text": "DischargeLoop\n/\nDischargeLoop Discharge Report / Proposed module\nDISCHARGELOOP DISCHARGE REPORT / PROPOSED MODULE\nAn evidence trail.\nWith the gaps intact.\n\nOrganise the dated contact, appointment and review evidence, with the missing pieces still in view.\n\nRequest a handoff audit\nExplore this in the demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nTCM evidence timeline\nDL-001 / Review packet\nEvidence to review.\nExceptions to resolve.\nPrepared concept packet · Not a billing decision\n05 Oct · 14:00\nDischarge source recorded\nDS-DEMO-001\n06 Oct · 09:10\nUnanswered contact attempt\nCONTACT-DEMO-001\n06 Oct · 09:15\nEscalation documented\nTransitions RN\nReview pending\nAppointment and medication-review evidence\nMissing / awaiting reviewer\nBilling staff assess requirements, coding and eligibility.\nDEMO — SYNTHETIC DATA\nILLUSTRATIVE TIMELINE / NOT BILLABILITY ASSURANCE\n01\nTHE OPERATING PROBLEM\nA neat packet can hide an unfinished service.\n\nThe proposed timeline organises the episode’s sources, contact attempts, referral milestones and review history. Missing evidence stays in the packet so billing staff can assess what is actually documented.\n\nRESPONSIBILITY\n\nTCM evidence/timeline packet and exception report for billing staff review.\n\nPRIMARY REVIEWERS\n\nOperations and billing reviewers\n\n02\nA TRACEABLE WORKFLOW\nFrom an input\nto a reviewable next step.\n01\nAssemble the chronology\n\nConnect the discharge source, contact attempts, escalation, appointment evidence and reviewer history to the same episode.\n\n02\nKeep exceptions in the packet\n\nShow unanswered contact, missing attendance and unresolved professional review. Do not erase uncertainty to make the report look complete.\n\n03\nHand over for staff review\n\nBilling staff assess the applicable service requirements, coding, eligibility and documentation. The packet makes no billability determination.\n\nSYNTHETIC WORKFLOW / STEP 01\nSources linked\n1\n\nSources linked\n\n2\n\nTimeline assembled\n\n3\n\nExceptions retained\n\n4\n\nBilling review required\n\nMira’s packet remains open: the call was unanswered, appointment confirmation is absent, and a pharmacist review is pending.\n\n03\nTHE SOURCE CONTRACT\nWhat must arrive\nwith the work.\n\nInputs, permission states and exception criteria must be agreed with the sponsor. A website preview does not establish access to those sources.\n\n01\nEpisode history\n\nAttributed events and responsible roles\n\n02\nContact evidence\n\nActual documented attempts and contact status\n\n03\nReferral evidence\n\nRequest, confirmation, attendance and closure fields\n\n04\nReview history\n\nProfessional decisions, missing evidence and exceptions\n\nExplore integration readiness\nNo live integration is connected.\n04\nOUTPUT, EVIDENCE AND LIMITS\nThe next handoff\nkeeps its context.\nPROPOSED OUTPUT\nAn evidence timeline and exception packet for billing staff to assess.\n\nThe next step belongs to the operations and billing reviewers. A prepared packet is not an assurance of coding validity, compliance or reimbursement.\n\nSee the shared episode\nEVALUATION QUESTION / NOT RESULTS\nWhat would make this worth adopting?\n\nStaff minutes preparing and reviewing the evidence packet, with erroneous closure and missing-evidence guardrails.\n\nNo measured gain is claimed.\nInspect the evaluation method\n\nAn evidence packet is not a coding decision, compliance certificate or assurance of reimbursement.\n\n05\nBEFORE THE NEXT STEP\nQuestions for this workflow.\nDoes the packet guarantee reimbursement?\n+\nWhat does it export?\n+\nAre TCM requirements checked automatically?\n+\nCONTINUE THROUGH THE SUITE\nDischarge Desk\n\nSee the work\n\nExplore the next responsibility\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nBring this handoff\nto the audit.\n\nDiscuss Discharge Report against the process your team already uses. Start with one service line.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Discharge Report · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/platform",
+    "docWidth": 1440,
+    "h1": [
+      "One episode.Every source stays connected."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4040",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#174D50",
+        "height": 973,
+        "y": 850
+      },
+      {
+        "color": "#2A6260",
+        "height": 580,
+        "y": 1823
+      },
+      {
+        "color": "#AFC8BE",
+        "height": 615,
+        "y": 2403
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3018
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3474
+      }
+    ],
+    "text": "DischargeLoop\n/\nThe shared workspace\nTHE SHARED WORKSPACE\nOne episode.\nEvery source stays connected.\n\nThe proposed platform is an episode model: people, permissions, evidence and exception history stay together as work moves between roles.\n\nExplore the synthetic workspace\nSee integration readiness\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nA shared context. Five specific responsibilities.\n\n01\nTHE SHARED EPISODE\nA place to return\nto the original question.\nDesk\nReview\nProof\nSignal\nReport\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nSHARED DISCHARGE EPISODE\nMira Vale DL-001\n4 items open\nPeople\nPermissions\nEvidence\nHistory\nDischarge source\nDS-DEMO-001\nContact attempt\nCONTACT-DEMO-001\nReferral source\nREFERRAL-DEMO-001\nSource comparison\nSOURCE-DEMO-002\n02\nTHE EVENT-TO-REVIEW CHAIN\nTrace the input.\nKeep the interpretation separate.\n01\nSource artifact\n\nOriginal source, version, time and permitted use.\n\n02\nVisible exception\n\nMissing, contradictory or unresolved evidence.\n\n03\nProposed next step\n\nAn attributed suggestion or draft. No external action.\n\n04\nAssigned reviewer\n\nA responsible human with a dated next review.\n\n05\nDocumented state\n\nDecision, source and remaining uncertainty retained.\n\n03\nOPERATIONAL BOUNDARIES\nShared context is not universal access.\n\nA future source route needs an authorised recipient, identity rules, source contracts and security review. An ADT notification is not a complete clinical record or proof that a referral closed.\n\nWhat the preview connects\n\nFictional episode IDs, source references, role names, timestamps, permission states and exception history. Local navigation lets you inspect their relationships.\n\nWhat remains to be established\n\nPermitted feeds, matching rules, source freshness, retention, access controls, reviewer obligations and the operating sponsor’s input contracts.\n\nRead the human-review boundaries\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Shared workspace · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/how-it-works",
+    "docWidth": 1440,
+    "h1": [
+      "Follow the exception.Find the next owner."
+    ],
+    "painted": [],
+    "route": "M76.5 211.3359375 L56.25 211.3359375 Q36 211.3359375 36 231.5859375 L36 5014",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 830,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 1036,
+        "y": 920
+      },
+      {
+        "color": "#AFC9BE",
+        "height": 1018,
+        "y": 1956
+      },
+      {
+        "color": "#174D50",
+        "height": 1018,
+        "y": 2974
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3992
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 4448
+      }
+    ],
+    "text": "DischargeLoop\n/\nHow it works\nHOW IT WORKS\nFollow the exception.\nFind the next owner.\n\nA simple proposed sequence: discover the open work, assign responsibility, and review the evidence. The underlying handoff stays visible throughout.\n\nFollow Mira in the demo\nView the full homepage story\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nONE DISCHARGE EPISODE\nMira ValeDL-001\n4 items remain open\nEvent received\nDS-DEMO-001 · 05 Oct, 14:00\n01\nOpen work identified\n4 unresolved items\n02\nOwner assigned\nCoordinator / RN / pharmacist\n03\nHuman review\nEvidence remains unresolved\n04\n\nAn attributed discharge source. Not a completed handoff.\n\n01\nINTAKE → OPEN WORK\nDiscover what remains open.\n\nStart with the attributed discharge event and its missing or conflicting evidence. In Mira’s fictional episode, PCP confirmation, pharmacy pickup and completed contact are unknown. A medication-list difference needs professional review.\n\n01\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nINTAKE → OPEN WORK\nMira ValeDL-001\n4 items remain open\nEvent received\nDS-DEMO-001 · 05 Oct, 14:00\n01\nOpen work identified\n4 unresolved items\n02\nOwner assigned\nCoordinator / RN / pharmacist\n03\nHuman review\nEvidence remains unresolved\n04\n\nAn attributed discharge source. Not a completed handoff.\n\nNo inferred completeness.\n\nAn event can start the work without establishing all the evidence.\n\n02\nOPEN WORK → ASSIGNED REVIEW\nMake the next responsibility explicit.\n\nAssign the care coordinator, transitions RN or pharmacist. Keep the original unanswered attempt and its later escalation separate. A date and a receiving role clarify the next review; they do not resolve the question.\n\n02\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nOPEN WORK → ASSIGNED REVIEW\nMira ValeDL-001\n4 items remain open\nOriginal attempt\n06 Oct · 09:10\n01\nEscalation documented\n06 Oct · 09:15\n02\nSource review assigned\nClinical pharmacist\n03\nNext action recorded\nEpisode stays open\n04\n\nUnanswered call recorded in a synthetic historical log.\n\nAssigned is not resolved.\n\nThe source and uncertainty stay with the named reviewer.\n\n03\nASSIGNED REVIEW → DOCUMENTED STATE\nReview before action. Keep the source.\n\nThe draft remains unsent. A pharmacist or clinician reviews the source difference. Billing staff assess the evidence packet. Unknown permission pauses the action, and the episode can remain open.\n\n03\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nASSIGNED REVIEW → DOCUMENTED STATE\nMira ValeDL-001\n4 items remain open\nPermission\nUnknown needs review\n01\nSource comparison\nTwo attributed records\n02\nUnsent draft\nHuman review required\n03\nReview packet\nBilling staff review\n04\n\nNo assumption of consent or caregiver authority.\n\nNothing is sent.\n\nSynthetic states explain a workflow. They do not perform it.\n\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "How it works · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/demo",
+    "docWidth": 1440,
+    "h1": [
+      "One episode.The whole handoff in view."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4145",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 719,
+        "y": 90
+      },
+      {
+        "color": "#174D50",
+        "height": 1699,
+        "y": 809
+      },
+      {
+        "color": "#235B59",
+        "height": 615,
+        "y": 2508
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3123
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3579
+      }
+    ],
+    "text": "DischargeLoop\n/\nIsolated synthetic demonstration\nISOLATED SYNTHETIC DEMONSTRATION\nOne episode.\nThe whole handoff in view.\n\nExplore nine fictional episodes. Inspect the source, owner, unsent draft and exception history. This demonstration makes no contact or clinical-system writes.\n\nRequest a guided walkthrough\nRead the workflow boundaries\nResearch-stage concept · Human review by design\n01\nONE SERVICE LINE / NINE FICTIONAL EPISODES\nOpen the episode. Follow the evidence.\nDischarge Desk\nConcept workspace\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nALL CHANGES REMAIN LOCAL AND RESETTABLE\nSearch fictional episodes\nReset demo\nAll\n9\nPending\n4\nBlocked\n2\nCompleted\n2\nRejected\n1\nEPISODE / OPEN ITEM\n9 shown\nMira ValeDL-001\n4 open handoffs\nPending\nArun ReedDL-002\nClosure documented\nCompleted\nLena BrooksDL-003\nPermission unknown\nBlocked\nNia ColeDL-004\nContact unanswered\nPending\nTheo MarshDL-005\nPCP response pending\nPending\nEva HartDL-006\nClosure documented\nCompleted\nIvo LaneDL-007\nSource unavailable\nBlocked\nRemi DaleDL-008\nDraft rejected in review\nRejected\nAda WrenDL-009\nReferral unconfirmed\nPending\nDISCHARGE EPISODE / DL-001 · CONCEPT PREVIEW\nMira Vale\nPending\n06 Oct · 10:30, 2026\nReviewer to confirm\n\nPCP confirmation, pickup evidence and completed contact are unknown. A medication-list difference awaits pharmacist review.\n\nSource\nAssigned\nReview open\nHANDOFF / RESPONSIBLE ROLE\nNEXT REVIEW\nPCP appointment\nCare coordinator\nPending\nTue 06 Oct · 09:30\nPharmacy pickup\nTransitions pharmacist\nUnconfirmed\nTue 06 Oct · 10:00\nContact attempt\nTransitions RN\nNo answer\nTue 06 Oct · 09:15\nMedication-list difference\nClinical pharmacist\nPharmacist review\nTue 06 Oct · 10:00\nEvidence\nOutreach\nTimeline\nSELECTED FICTIONAL SOURCE\nSOURCE-DEMO-002\n\nFictional entry DEMO-M04 appears in DS-DEMO-001 (Version A) and is absent from SOURCE-DEMO-002 (Version B). This flag does not establish which source is correct or recommend a medication change.\n\nReview remains open. No automatic determination.\nLOCAL SIMULATION ONLY\n\nRecord an acknowledgement without changing the seeded state.\n\nSimulate review acknowledgement\nDownload synthetic summary\nDEMO — SYNTHETIC DATA\n02\nWHAT THIS DEMONSTRATION ESTABLISHES\nAn inspectable relationship.\nAn open question about adoption.\nWhat you can explore\n\nA queue with two completed, four pending, two blocked and one rejected state. Named roles, attributed sources, dates, unknown permission, an unsent draft and a historical escalation.\n\nWhat it cannot establish\n\nClinical benefit, source accuracy, demand, measured staff savings, billability or compliance. No patient data, provider endpoint, live feed or messaging service is connected.\n\nRead the evaluation method\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a guided walkthrough\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Synthetic discharge demo · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/solutions",
+    "docWidth": 1440,
+    "h1": [
+      "The handoff is shared.The ownership question differs."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 3397",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 775,
+        "y": 90
+      },
+      {
+        "color": "#285F5D",
+        "height": 729,
+        "y": 865
+      },
+      {
+        "color": "#B1CBBF",
+        "height": 780,
+        "y": 1595
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 2375
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 2831
+      }
+    ],
+    "text": "DischargeLoop\n/\nWho it serves\nWHO IT SERVES\nThe handoff is shared.\nThe ownership question differs.\n\nExplore the decision in your operating context: one hospital service line or an ACO’s cross-setting follow-up.\n\nMap your workflow\nCompare the proposed modules\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nThe right question starts with the responsible team.\n\n01\nTWO BUYER PATHS\nStart where responsibility lives.\nDISCHARGE-PLANNING DIRECTOR / CARE-TRANSITIONS OPERATIONS LEADER\nHospital transitions\n\nOne facility. A defined service line. Visibility of open work across coordinator, RN and pharmacist roles.\n\nExplore this workflow\nPOPULATION-HEALTH OPERATOR\nACO population health\n\nCross-setting attribution, authorised events and explicit responsibility for the receiving team.\n\nExplore this workflow\n02\nTHE TEAM AROUND THE BUYER\nThree perspectives. Ask separately.\n01\nThe decision buyer\n\nWho owns the operational problem and could authorise a budget? Willingness to switch or pay is not established.\n\n02\nThe frontline operator\n\nWhich sources, calls, queues and exceptions does the team work through today? Observe the actual effort and handoffs.\n\n03\nThe oversight owner\n\nWho approves source access, privacy/security, consent states, evidence rules and human-review responsibilities?\n\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Who it serves · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/solutions/hospital-transitions",
+    "docWidth": 1440,
+    "h1": [
+      "One service line.A visible next step."
+    ],
+    "painted": [],
+    "route": "M76.5 211.3359375 L56.25 211.3359375 Q36 211.3359375 36 231.5859375 L36 4094",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 830,
+        "y": 90
+      },
+      {
+        "color": "#2A6260",
+        "height": 815,
+        "y": 920
+      },
+      {
+        "color": "#B7CEC2",
+        "height": 645,
+        "y": 1736
+      },
+      {
+        "color": "#174D50",
+        "height": 691,
+        "y": 2381
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3072
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3528
+      }
+    ],
+    "text": "DischargeLoop\n/\nHospital transitions\nHOSPITAL TRANSITIONS\nOne service line.\nA visible next step.\n\nA focused exception queue for the people accountable after discharge: the director, the transitions team and the professional reviewing the next action.\n\nAudit this workflow\nExplore the synthetic demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nPROPOSED HOSPITAL WORKFLOW\nMira ValeDL-001\n4 items remain open\nDischarge source\nOne agreed service line\n01\nTransitions queue\nOpen work + next owner\n02\nReviewing team\nCoordinator / RN / pharmacist\n03\nDocumented next action\nSource + time + role\n04\n\nStart with the defined scope and authorised source.\n\n01\nTHE BUYER’S QUESTION\nWhere does a handoff\nstop being visible?\n\nMap appointments, pharmacy follow-up, failed contact and professional review against the team’s current process. Confirm what the EHR and referral tools already close.\n\n01\nBegin with one service line\n\nDefine intake, exceptions, responsible roles and a narrow operating scope.\n\n02\nObserve staff work\n\nShadow the people locating evidence, trying contact and handing tasks to other reviewers.\n\n03\nCompare with existing contracts\n\nA new queue must demonstrate a meaningful operating gap before a switch is justified.\n\n02\nA SCOPED FIRST EVALUATION\nKeep active effort and elapsed time separate.\nMeasure the work actually performed\n\nAgree active staff minutes per episode, time-to-contact, documented appointment closure and the baseline window. Keep unreachable episodes and erroneous closures as guardrails.\n\nRead the measurement method\nFirst pilot candidate: Discharge Desk\n\nOne service-line exception queue with unsent outreach and appointment-closure visibility. An operations sponsor, bounded source rights, security approval and human oversight are prerequisites.\n\nReview pilot scope\n03\nQUESTIONS BEFORE A FEED\nImplementation starts with a source contract.\nDo we need to upload records to request an audit?\n+\nWhich roles should join the evaluation?\n+\nWhat if our EHR already handles this queue?\n+\nSee the integration-readiness questions\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Hospital transitions · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/solutions/aco-population-health",
+    "docWidth": 1440,
+    "h1": [
+      "Across settings.A defined receiving team."
+    ],
+    "painted": [],
+    "route": "M76.5 175.3984375 L56.25 175.3984375 Q36 175.3984375 36 195.6484375 L36 4094",
+    "scenes": [
+      {
+        "color": "#173E46",
+        "height": 830,
+        "y": 90
+      },
+      {
+        "color": "#2A6260",
+        "height": 879,
+        "y": 920
+      },
+      {
+        "color": "#B7CEC2",
+        "height": 645,
+        "y": 1799
+      },
+      {
+        "color": "#174D50",
+        "height": 628,
+        "y": 2444
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3072
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3528
+      }
+    ],
+    "text": "DischargeLoop\n/\nACO population health\nACO POPULATION HEALTH\nAcross settings.\nA defined receiving team.\n\nExplore how a permitted discharge event could become a reviewable task for the right receiving team. Start with attribution, data rights and ownership.\n\nAudit this workflow\nExplore the synthetic demo\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nPROPOSED ACO WORKFLOW\nMira ValeDL-001\n4 items remain open\nAuthorised event\nSource route and recipient\n01\nPopulation context\nAttribution to confirm\n02\nReceiving team\nExplicit follow-up owner\n03\nEvidence review\nSource + next action\n04\n\nEvent access must be permitted; notification is not a complete record.\n\n01\nTHE BUYER’S QUESTION\nWho is responsible\nafter the event crosses settings?\n\nAn event feed does not establish attribution, patient choice or a receiving team’s responsibility. The audit must identify the permitted cohort and each organisation’s role.\n\n01\nDefine the attributed population\n\nAgree which episodes belong in scope and which receiving organisation owns follow-up.\n\n02\nEstablish the permitted route\n\nConfirm source rights, recipients, patient choice, consent and any cross-setting access constraints.\n\n03\nName the receiving operation\n\nIdentify the follow-up team, escalation path, budget owner and source of closure evidence.\n\n02\nA SCOPED FIRST EVALUATION\nKeep attribution and closure separate.\nEvidence the receiving team can review\n\nTrack the episode source, responsible organisation, contact attempts, appointment milestones and review history. Unknown access or ownership should stop the next step.\n\nRead the measurement method\nFirst pilot candidate: Discharge Desk\n\nOne service-line exception queue with unsent outreach and appointment-closure visibility. An operations sponsor, bounded source rights, security approval and human oversight are prerequisites.\n\nReview pilot scope\n03\nQUESTIONS BEFORE A FEED\nData rights are part of the workflow.\nWho owns the discharge source?\n+\nWhat if attribution or permission is unknown?\n+\nCan this replace our population-health workflow?\n+\nSee the integration-readiness questions\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "ACO population health · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/pilot",
+    "docWidth": 1440,
+    "h1": [
+      "Start small.Earn the next step."
+    ],
+    "painted": [],
+    "route": "M76.5 128.5 L56.25 128.5 Q36 128.5 36 148.75 L36 4966",
+    "scenes": [
+      {
+        "color": "#173F47",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 543,
+        "y": 850
+      },
+      {
+        "color": "#315F5C",
+        "height": 727,
+        "y": 1393
+      },
+      {
+        "color": "#ACC6BA",
+        "height": 923,
+        "y": 2120
+      },
+      {
+        "color": "#173F47",
+        "height": 838,
+        "y": 3044
+      },
+      {
+        "color": "#174D50",
+        "height": 519,
+        "y": 3881
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 4400
+      }
+    ],
+    "text": "DischargeLoop\n/\nPilot & pricing\nPILOT & PRICING\nStart small.\nEarn the next step.\n\nBegin with a 20-minute handoff audit. Move toward a paid, time-boxed pilot only after the operating gap, sponsor, permissions and evaluation plan are clear.\n\nRequest a handoff audit\nDiscuss a conditional pilot\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nA commitment to evidence before expansion.\n\n01\nA SCOPED PATH FORWARD\nAudit. Map. Then decide.\n01\nHandoff audit\n\nMap one service line with a transitions director. Locate the current queue, its owner and the unresolved handoff.\n\n02\nRetrospective map\n\nShadow the operating team and review a bounded cohort only with explicit rights, a sponsor and human oversight.\n\n03\nConditional paid pilot\n\nAgree scope, owner, input contracts, evidence rules, time box and the explicit review gate in writing.\n\n02\nCOMMERCIAL HYPOTHESIS\nOne facility.\nOne exception queue first.\n\nDischarge Desk is the initial pilot candidate: one service line, unsent outreach and appointment-closure visibility. No checkout or free trial is offered.\n\nHYPOTHETICAL TEST PRICE — NOT AN ACTIVE OFFER\n$2,500\nper facility\nper month\n\nPlus a hypothetical $5,000 setup fee.\n\nA willingness-to-pay question.\n\nPrice acceptance, implementation cost and scope remain unvalidated. Test the hypothesis against current transitions contracts and staff effort. No reimbursement, clinical outcome or ROI is promised.\n\nDiscuss a bounded evaluation\n03\nREADINESS IS A GATE\n8 interviews. 2 reviews. 1 sponsor.\n\nThese are prerequisites from the brief, not completed milestones. Signed data-access, security and human-oversight approvals are also required before a live pilot.\n\n8\n\nqualified buyer /\noperator interviews\n\n2\n\napproved retrospective\ncohort reviews\n\n1\n\nconditional paid sponsor\nwith an ADT/security route\n\nLOCAL DISCUSSION CHECKLIST\nWhat would your team need to establish?\n\nSelections stay in this page. They do not certify readiness or submit an inquiry.\n\n0 of 5 discussion items selected\nOperations sponsor identified\nBounded service-line scope\nAuthorised ADT / source route\nData-access and security review\nHuman-review and evidence rules\n04\nTHE MEASURE AND THE STOP RULE\nA useful evaluation can say stop.\nMeasure the current work first.\n\nPrimary: median staff minutes from discharge to documented handoff closure versus baseline. Define active effort separately from elapsed duration. Keep time-to-contact, appointment closure and the two guardrails visible.\n\nInspect the scorecard\nStop or reposition when…\n\nThere is no operations budget owner, no authorised data route, or the incumbent queue closes the same exceptions at comparable staff effort. Demand is not established by ad clicks or a synthetic demonstration.\n\nHow long is the pilot?\n+\nCan the other four modules be included?\n+\nCan this guarantee fewer readmissions or billable TCM?\n+\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nBring the workflow.\nWe’ll map the next decision.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nRequest a guided concept walkthrough\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Pilot & hypothetical pricing · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/request-audit",
+    "docWidth": 1440,
+    "h1": [
+      "Bring one service line.Find the next decision."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 3268",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 1237,
+        "y": 850
+      },
+      {
+        "color": "#193F47",
+        "height": 615,
+        "y": 2087
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 2702
+      }
+    ],
+    "text": "DischargeLoop\n/\n20-minute handoff audit\n20-MINUTE HANDOFF AUDIT\nBring one service line.\nFind the next decision.\n\nMap where the current handoff loses ownership or evidence. Start with the people doing the work and the director accountable for it.\n\nExplore the synthetic demo first\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nThe next step starts with a conversation.\n\n01\nSTART WITH THE OPERATING CONTEXT\nA little context for the conversation.\nA PROPOSED 20-MINUTE AGENDA\nOne workflow. Four useful questions.\nWhich service line are we mapping?\nWhere does ownership or evidence become hard to see?\nWho owns the next step in the current workflow?\nWould a bounded retrospective map be useful?\n\nLocal frontend preview. No delivery service or scheduling calendar is connected. No request is transmitted.\n\nDo not enter patient details, clinical narratives, records or real credentials. This site accepts no uploads or payments.\n\nBUSINESS INQUIRY / LOCAL PREVIEW\nNot connected to delivery\nRole\nHospital care-transitions leader\nDischarge-planning director\nACO population-health operator\nFrontline transitions operator\nPrivacy / security / oversight owner\nAssociation / referral / implementation partner\nOther business role\nOrganisation\nWork email\nSite / region\nWhich handoff most often remains unresolved?\nAppointment / referral closure\nContact and failed-contact escalation\nMedication-list review\nOwnership and source evidence\nSource access / integration readiness\nWorkflow interest\nFull discharge journey\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nI understand this is a local preview. Nothing will be submitted. I will use business context without patient information.\n\nFields stay in temporary page state and clear on reload. No lead service, tracking or analytics is connected. Preview privacy notice · v2 / 16 October 2026.\n\nPreview audit inquiry\n02\nA USEFUL NEXT DECISION\nA process map.\nNot a patient-record request.\nWhat to bring\n\nBring a description of one service line, the current operating roles and the systems involved. Patient records are not needed for this website or its inquiry preview.\n\nWhat this preview does\n\nIt helps you inspect the workflow and prepare a local business inquiry. Live contact delivery and scheduling require a separately configured service and approved notice.\n\nRead the handoff-audit guide\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "20-minute handoff audit · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/request-demo",
+    "docWidth": 1440,
+    "h1": [
+      "Walk the workflow.Keep the questions open."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 3268",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 1237,
+        "y": 850
+      },
+      {
+        "color": "#193F47",
+        "height": 615,
+        "y": 2087
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 2702
+      }
+    ],
+    "text": "DischargeLoop\n/\nGuided concept walkthrough\nGUIDED CONCEPT WALKTHROUGH\nWalk the workflow.\nKeep the questions open.\n\nExplore the full synthetic journey or one proposed module with an operations-focused walkthrough. No patient records are needed.\n\nExplore the synthetic demo first\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nA source, an owner, and the question between them.\n\n01\nSTART WITH THE OPERATING CONTEXT\nA little context for the conversation.\nWHAT HAPPENS NEXT\nA walkthrough shaped around your question.\nChoose the full journey or a proposed module.\nInspect source, owner and uncertainty states.\nExplore clean, ambiguous and blocked episodes.\nDiscuss fit against your existing workflow.\n\nLocal frontend preview. No delivery service or scheduling calendar is connected. No request is transmitted.\n\nDo not enter patient details, clinical narratives, records or real credentials. This site accepts no uploads or payments.\n\nBUSINESS INQUIRY / LOCAL PREVIEW\nNot connected to delivery\nRole\nHospital care-transitions leader\nDischarge-planning director\nACO population-health operator\nFrontline transitions operator\nPrivacy / security / oversight owner\nAssociation / referral / implementation partner\nOther business role\nOrganisation\nWork email\nSite / region\nWhich handoff most often remains unresolved?\nAppointment / referral closure\nContact and failed-contact escalation\nMedication-list review\nOwnership and source evidence\nSource access / integration readiness\nWorkflow interest\nFull discharge journey\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nI understand this is a local preview. Nothing will be submitted. I will use business context without patient information.\n\nFields stay in temporary page state and clear on reload. No lead service, tracking or analytics is connected. Preview privacy notice · v2 / 16 October 2026.\n\nPreview walkthrough inquiry\n02\nA USEFUL NEXT DECISION\nA process map.\nNot a patient-record request.\nWhat to bring\n\nBring a description of one service line, the current operating roles and the systems involved. Patient records are not needed for this website or its inquiry preview.\n\nWhat this preview does\n\nIt helps you inspect the workflow and prepare a local business inquiry. Live contact delivery and scheduling require a separately configured service and approved notice.\n\nRead the handoff-audit guide\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Guided concept walkthrough · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/request-pilot",
+    "docWidth": 1440,
+    "h1": [
+      "A scoped pilotstarts with a sponsor."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 3369",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 1338,
+        "y": 850
+      },
+      {
+        "color": "#193F47",
+        "height": 615,
+        "y": 2188
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 2803
+      }
+    ],
+    "text": "DischargeLoop\n/\nConditional pilot inquiry\nCONDITIONAL PILOT INQUIRY\nA scoped pilot\nstarts with a sponsor.\n\nDiscuss a bounded retrospective map and a conditional paid evaluation. Scope, data rights, security and human oversight must be agreed first.\n\nExplore the synthetic demo first\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nScope. Owner. Review gate.\n\n01\nSTART WITH THE OPERATING CONTEXT\nA little context for the conversation.\nWHAT HAPPENS NEXT\nFirst, assess the prerequisites.\nIdentify the sponsor and bounded service-line scope.\nEstablish the authorised source and security route.\nAgree evidence, measurement and human review.\nDecide whether a written, time-boxed pilot is appropriate.\n\nLocal frontend preview. No delivery service or scheduling calendar is connected. No request is transmitted.\n\nDo not enter patient details, clinical narratives, records or real credentials. This site accepts no uploads or payments.\n\nRead the 8 / 2 / 1 pilot gate\nBUSINESS INQUIRY / LOCAL PREVIEW\nNot connected to delivery\nRole\nHospital care-transitions leader\nDischarge-planning director\nACO population-health operator\nFrontline transitions operator\nPrivacy / security / oversight owner\nAssociation / referral / implementation partner\nOther business role\nOrganisation\nWork email\nSite / region\nWhich handoff most often remains unresolved?\nAppointment / referral closure\nContact and failed-contact escalation\nMedication-list review\nOwnership and source evidence\nSource access / integration readiness\nWorkflow interest\nFull discharge journey\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nReadiness discussion\nSponsor / source route still to establish\nPotential operations sponsor identified\nSource / security discussion in progress\nSeeking a governed retrospective review\nI understand this is a local preview. Nothing will be submitted. I will use business context without patient information.\n\nFields stay in temporary page state and clear on reload. No lead service, tracking or analytics is connected. Preview privacy notice · v2 / 16 October 2026.\n\nPreview pilot inquiry\n02\nA USEFUL NEXT DECISION\nPermission and evidence\nbefore expansion.\nThe pilot remains conditional.\n\nAt least eight qualified interviews, two approved retrospective cohort reviews, one conditional paid sponsor with an ADT/security route, and signed data-access/security/human-oversight approvals are required.\n\nA clear stop rule.\n\nStop or reposition if there is no budget owner, no authorised source route, or the incumbent already closes the same exceptions at comparable staff effort.\n\nInspect the evaluation method\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Conditional pilot inquiry · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/evidence",
+    "docWidth": 1440,
+    "h1": [
+      "Measure the work.Keep the denominator."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4960",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 1165,
+        "y": 850
+      },
+      {
+        "color": "#AFC9BE",
+        "height": 676,
+        "y": 2015
+      },
+      {
+        "color": "#174D50",
+        "height": 1248,
+        "y": 2691
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3938
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 4394
+      }
+    ],
+    "text": "DischargeLoop\n/\nEvidence & evaluation\nEVIDENCE & EVALUATION\nMeasure the work.\nKeep the denominator.\n\nPrimary guidance establishes the workflow. Whether this proposed approach is worth adopting still needs an observed baseline and a governed evaluation.\n\nRead the evaluation worksheet\nInspect the source notes\nResearch-stage concept · Human review by design\nRESEARCH-STAGE EVIDENCE\nWorkflow context\nSource-backed\nWillingness to switch / pay\nNot established\nOperational or clinical outcomes\nNot measured\n\nA synthetic preview is an explanation, not a result.\n\n01\nTHE PROPOSED SCORECARD\nSeparate active effort\nfrom elapsed time.\n\nPreserve the brief’s primary measure: median staff minutes from discharge to documented handoff closure versus baseline. Agree the active-effort definition before reporting a result.\n\nEvaluation methodology preview\nNot measured\nMEASURE\tBASELINE\tPILOT\n\nActive staff minutes / episode\nPrimary definition to agree; compare with the existing workflow\n\t—\t—\n\nElapsed discharge → closure\nSeparate duration measure; never substitute for active effort\n\t—\t—\n\nTime to documented contact\nA draft or unanswered attempt is not completed contact\n\t—\t—\n\nAppointment / referral closure\nAgree evidence threshold before measuring\n\t—\t—\n\nUnreachable-case escalation completion\nGuardrail; include cases still unresolved\n\t—\t—\n\nErroneous closure count\nGuardrail; retain corrections and reviewer attribution\n\t—\t—\n\nKeep cohort size, eligibility/exclusions, baseline window, observation window, open/censored cases, decision-maker role, evidence source and uncertainty.\n\nDownload the blank worksheet\n02\nCLAIMS WITH BOUNDARIES\nWhat is known. What remains open.\nWorkflow context\nDemand and outcomes\nThe responsibilities exist.\n\nCMS and AHRQ material supports distinguishing discharge, contact, follow-up arrangements, source-list review and documentation. Vendor primary pages show an existing market of operational alternatives.\n\nResearch context, not product efficacy.\n03\nPRIMARY SOURCE REGISTER\nContext, with a source.\n\nSource summaries explain the design choices. Clinical, billing, privacy and security interpretation belongs with the relevant professional reviewers.\n\nCMS\nTransitional Care Management\n\nTCM is a defined service with documentation requirements.\n\nA generated draft or timeline does not establish that a service occurred or is billable.\nAHRQ\nMATCH medication reconciliation toolkit\n\nMedication-list differences belong in a defined reconciliation process with appropriate clinical involvement.\n\nThis supports the review workflow, not a claim that DischargeLoop resolves discrepancies correctly.\nAHRQ\nRe-Engineered Discharge: Tool 3\n\nFollow-up arrangements, patient needs and receiving-clinician communication are distinct discharge tasks.\n\nA documented discharge plan is not evidence of a later completed handoff.\nCMS\nADT event-notification FAQs\n\nEvent-notification requirements have defined applicability and recipients.\n\nAn ADT notification does not grant a new vendor universal access or supply a complete clinical record.\nCMS\nDischarge-planning memorandum\n\nPatient goals, preferences and relevant handoff information matter to discharge planning.\n\nA concept interface does not demonstrate that a hospital meets its obligations.\nHHS\nCloud computing and business associates\n\nFuture handling of protected health information requires an appropriate privacy/security assessment.\n\nRead-only access and a security-review checklist are not compliance certifications.\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Evidence & evaluation · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/oversight",
+    "docWidth": 1440,
+    "h1": [
+      "A missing answershould stay visible."
+    ],
+    "painted": [],
+    "route": "M76.5 211.3359375 L56.25 211.3359375 Q36 211.3359375 36 231.5859375 L36 4245",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 830,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 771,
+        "y": 920
+      },
+      {
+        "color": "#A9C5BA",
+        "height": 950,
+        "y": 1692
+      },
+      {
+        "color": "#174D50",
+        "height": 582,
+        "y": 2642
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3223
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3679
+      }
+    ],
+    "text": "DischargeLoop\n/\nHuman accountability\nHUMAN ACCOUNTABILITY\nA missing answer\nshould stay visible.\n\nEvery proposed next step needs context, permission and the right reviewer. Show when to pause as clearly as when to proceed.\n\nInspect the blocked demo\nDiscuss oversight questions\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nBLOCKED / ABSTAINED EPISODE\nLena BrooksDL-003\nPermission review required\nContact permission\nUnknown\n01\nReferral source\nStale evidence\n02\nNext owner\nTransitions coordinator\n03\nOutcome\nAbstained\n04\n\nUnknown permission blocks the next action.\n\n01\nPERMISSION BEFORE ACTION\nA state that changes the next question.\nSYNTHETIC PERMISSION EXAMPLE\nReview Lena’s permission state.\n\nThese controls change a local explanation only. They do not authorise contact, update a record or establish consent.\n\nUnknown\nPermission recorded\nWithdrawn\nPause. Review the missing permission.\n\nUnknown is not assumed consent. Keep the action blocked and assign permission review to the transitions coordinator.\n\nNo external action is available.\n02\nDIFFERENT QUESTIONS, APPROPRIATE REVIEWERS\nHuman review is a specific responsibility.\n01\nPharmacist / clinician\n\nAssess source-linked medication differences. The preview makes no treatment or reconciliation determination.\n\n02\nTransitions operations\n\nReview failed-contact escalation, ownership, patient choice, caregiver authority and communication needs.\n\n03\nBilling staff\n\nAssess the service and its documentation. A timeline is not a coding decision or reimbursement assurance.\n\n04\nPrivacy, security and source owners\n\nEstablish data rights, access rules, source contracts, retention, review obligations and approval gates before live use.\n\n03\nGOVERNANCE BEFORE A LIVE PILOT\nA checklist is not a certification.\nKeep a history that can be followed.\n\nPreserve the input, its version, exception provenance, failed attempts, escalation, reviewer and next action. A reviewer decision should be attributable and reversible.\n\nInspect the shared object model\nEstablish the actual controls.\n\nWritten data-access and security approvals, a permitted source route, explicit human oversight and a bounded operating scope are prerequisites. No security certification or HIPAA compliance claim is made by this concept.\n\nReview source-readiness questions\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Human oversight · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/integration-readiness",
+    "docWidth": 1440,
+    "h1": [
+      "Before the feed,establish the right to use it."
+    ],
+    "painted": [],
+    "route": "M76.5 175.3984375 L56.25 175.3984375 Q36 175.3984375 36 195.6484375 L36 4354",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 830,
+        "y": 90
+      },
+      {
+        "color": "#2B6260",
+        "height": 775,
+        "y": 920
+      },
+      {
+        "color": "#AEC8BD",
+        "height": 885,
+        "y": 1695
+      },
+      {
+        "color": "#173E46",
+        "height": 752,
+        "y": 2580
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3332
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3788
+      }
+    ],
+    "text": "DischargeLoop\n/\nIntegration readiness\nINTEGRATION READINESS\nBefore the feed,\nestablish the right to use it.\n\nIntegration is a discovery question. Confirm the source, recipient, rights and operating contract before treating a discharge event as usable workflow context.\n\nMap your source route\nRead the ADT source note\nResearch-stage concept · Human review by design\nCONCEPT PREVIEW · DEMO — SYNTHETIC DATA\nREAD-ONLY CONCEPT PREVIEW\nPROPOSED INPUT CONTRACT\nMira ValeDL-001\nNo live feed connected\nSource owner\nAuthorised recipient\n01\nInput contract\nSchema + identity + freshness\n02\nPermission states\nConsent + choice + authority\n03\nOperating review\nScope + owner + security\n04\n\nA notification is not universal access.\n\n01\nTHE SOURCE CONTRACT\nAn event needs its context.\n01\nSource route\n\nADT/discharge source owner, permitted recipient, rights and intended use.\n\n02\nIdentity & duplicates\n\nAgreed episode matching, ambiguous identities and duplicate-event handling.\n\n03\nTime & freshness\n\nEvent time, ingestion context, version and stale-source behavior.\n\n04\nCommunication rights\n\nContact permission, caregiver authority, patient choice and language needs.\n\n05\nReferral context\n\nAcceptance, benefits/network data quality, appointment evidence and source limits.\n\n06\nGovernance\n\nAccess, retention, security, audit history, reviewer role and signed approvals.\n\n02\nA BOUNDARY WORTH KEEPING\nA notification is not the whole record.\nWhat an event can begin\n\nA source-attributed review of a scoped episode, provided the route and use are authorised. It can identify that work may need attention.\n\nWhat it does not establish\n\nUniversal vendor access, complete clinical context, patient consent, referral acceptance, attendance, documented closure or permission to contact a person.\n\nCMS\nADT event-notification FAQs\n\nEvent-notification requirements have defined applicability and recipients.\n\nAn ADT notification does not grant a new vendor universal access or supply a complete clinical record.\nHHS\nCloud computing and business associates\n\nFuture handling of protected health information requires an appropriate privacy/security assessment.\n\nRead-only access and a security-review checklist are not compliance certifications.\n03\nA PRACTICAL DISCOVERY SEQUENCE\nAsk before implementing.\n01\nName the operating sponsor\n\nIdentify the buyer, budget owner, frontline operator and oversight owner.\n\n02\nMap the existing source\n\nReview the authorised route, existing contracts, recipients and data limitations.\n\n03\nAgree the bounded evaluation\n\nSpecify the service line, input contract, evidence rules, security route, reviewer and explicit stop gate.\n\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Integration readiness · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/resources",
+    "docWidth": 1440,
+    "h1": [
+      "Useful questions.A traceable place to start."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 3706",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#285F5C",
+        "height": 1219,
+        "y": 850
+      },
+      {
+        "color": "#ADC7BB",
+        "height": 615,
+        "y": 2069
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 2685
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3140
+      }
+    ],
+    "text": "DischargeLoop\n/\nResources\nRESOURCES\nUseful questions.\nA traceable place to start.\n\nA practical audit guide, an evaluation worksheet, primary source notes and a synthetic workflow teardown. Evidence before an enterprise pitch.\n\nRead the audit guide\nInspect the source register\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nA source for the question. A next step for the team.\n\n01\nGUIDES AND WORKING MATERIAL\nBring the workflow into focus.\n01\nFIELD GUIDE\nA handoff audit in 20 minutes.\n\nStart with one service line and one unresolved handoff. The goal is a clear process map, not an enterprise AI pitch.\n\n02\nEVALUATION WORKSHEET\nMeasure the handoff. Keep the open cases.\n\nA proposed scorecard for a governed retrospective review. Every result field starts as not measured.\n\n03\nRESEARCH NOTES\nWhat the sources support. And what they do not.\n\nPrimary guidance establishes that discharge handoffs involve distinct responsibilities. It does not validate this proposed product.\n\n04\nWORKFLOW TEARDOWN\nAn unanswered call is still a handoff.\n\nMira’s fictional episode shows how an unresolved state can remain useful when its source, owner and next action stay connected.\n\n02\nTHE EVIDENCE BOUNDARY\nContext is useful. Proof needs a cohort.\nGuidance supports the workflow.\n\nCMS and AHRQ material helps separate contact, appointments, source review and documentation. Vendor descriptions help identify incumbent overlap.\n\nAdoption needs an evaluation.\n\nWillingness to switch or pay and operational gain are unproven. Observe the baseline, agree the measure and keep still-open cases in the denominator.\n\nSee evidence and limitations\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Resources · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/resources/handoff-audit",
+    "docWidth": 1440,
+    "h1": [
+      "A handoff audit in 20 minutes."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4112",
+    "scenes": [
+      {
+        "color": "#173F47",
+        "height": 634,
+        "y": 90
+      },
+      {
+        "color": "#2A6260",
+        "height": 1871,
+        "y": 724
+      },
+      {
+        "color": "#1E5052",
+        "height": 495,
+        "y": 2594
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3090
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3546
+      }
+    ],
+    "text": "DischargeLoop\n/\nResources / Field guide\nRESOURCES / FIELD GUIDE\nA handoff audit in 20 minutes.\n\nStart with one service line and one unresolved handoff. The goal is a clear process map, not an enterprise AI pitch.\n\nRequest a handoff audit\nAll resources\nResearch-stage concept · Human review by design\nIN THIS GUIDE\n01 / Establish the operating context\n02 / Follow one handoff\n03 / Trace the next responsibility\n04 / Compare with the current process\n05 / Agree the next decision\nSave this guide\n01 / FIELD NOTE\n01 / Establish the operating context\n\nAsk the transitions director which service line to map, which role owns the workflow and who controls the relevant budget. Separate the buyer, the person doing the work and the oversight owner. Do not assume they are the same person.\n\n02 / FIELD NOTE\n02 / Follow one handoff\n\nWalk through a contact, referral or evidence exception using a process description. Identify where a status first becomes uncertain, which system holds the source and what the receiving team sees. Do not bring patient records to the website or audit inquiry form.\n\n03 / FIELD NOTE\n03 / Trace the next responsibility\n\nName the responsible role, its next action, the escalation rule and the evidence needed for closure. A task assignment is not resolution. Distinguish request, confirmation, attendance and documented closure.\n\n04 / FIELD NOTE\n04 / Compare with the current process\n\nMap calls, fax, EHR tasks and referral platforms. Ask whether existing software already closes the same exception at comparable active staff effort. If so, there may be no case for another queue.\n\n05 / FIELD NOTE\n05 / Agree the next decision\n\nA useful outcome may be a bounded retrospective map—or a decision to stop. Before reviewing a cohort, establish an operations sponsor, permitted data route, security review and explicit human oversight.\n\nCARRY THIS FORWARD\n\nLeave with a service line, a defined exception, an owner, an evidence question and a next decision. No patient data is needed to request the conversation.\n\n↳\nSEE THE RELATIONSHIP\nFollow the fictional episode.\nMira’s unresolved handoffs\n\nSource, ownership, contact history and professional review stay connected. Unknown evidence is not silently converted into completion.\n\nOpen the synthetic demo\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "A handoff audit in 20 minutes. · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/resources/pilot-scorecard",
+    "docWidth": 1440,
+    "h1": [
+      "Measure the handoff. Keep the open cases."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4557",
+    "scenes": [
+      {
+        "color": "#173F47",
+        "height": 634,
+        "y": 90
+      },
+      {
+        "color": "#2A6260",
+        "height": 1835,
+        "y": 724
+      },
+      {
+        "color": "#AEC8BD",
+        "height": 976,
+        "y": 2558
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3535
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3991
+      }
+    ],
+    "text": "DischargeLoop\n/\nResources / Evaluation worksheet\nRESOURCES / EVALUATION WORKSHEET\nMeasure the handoff. Keep the open cases.\n\nA proposed scorecard for a governed retrospective review. Every result field starts as not measured.\n\nRequest a handoff audit\nAll resources\nResearch-stage concept · Human review by design\nIN THIS GUIDE\nDefine the unit of work\nSeparate effort from elapsed time\nChoose the baseline\nKeep the guardrails\nSet the review gate\nSave this guide\n01 / FIELD NOTE\nDefine the unit of work\n\nAgree the episode definition, eligibility criteria, exclusions and the observation window. Keep still-open and censored cases visible. Record the cohort denominator and the evidence source before calculating any summary.\n\n02 / FIELD NOTE\nSeparate effort from elapsed time\n\nThe brief’s primary metric is median staff minutes from discharge to documented handoff closure versus baseline. Clarify whether this means total active staff effort during that interval. Track elapsed discharge-to-closure duration separately.\n\n03 / FIELD NOTE\nChoose the baseline\n\nObserve the current EHR, referral and manual workflow over a defined baseline window. Record decision-maker roles and incumbent contracts. A synthetic interface cannot supply an observed baseline.\n\n04 / FIELD NOTE\nKeep the guardrails\n\nTrack unreachable-case escalation completion and erroneous closure count. A faster-looking queue is not useful if it drops difficult episodes or labels unresolved work complete.\n\n05 / FIELD NOTE\nSet the review gate\n\nThe sponsor and operating reviewers define acceptable thresholds, escalation timing, scope and the time box. Do not import a clinical or financial benchmark from a demonstration.\n\nCARRY THIS FORWARD\n\nNo operational gain, clinical benefit or billing validity is established by an empty scorecard. The purpose is to define what evidence an evaluation would need.\n\n↳\nBLANK EVALUATION PLAN\nEvery result starts as not measured.\nMEASURE\tBASELINE\tPILOT\n\nActive staff minutes / episode\nPrimary definition to agree; compare with the existing workflow\n\t—\t—\n\nElapsed discharge → closure\nSeparate duration measure; never substitute for active effort\n\t—\t—\n\nTime to documented contact\nA draft or unanswered attempt is not completed contact\n\t—\t—\n\nAppointment / referral closure\nAgree evidence threshold before measuring\n\t—\t—\n\nUnreachable-case escalation completion\nGuardrail; include cases still unresolved\n\t—\t—\n\nErroneous closure count\nGuardrail; retain corrections and reviewer attribution\n\t—\t—\n\nMethodology preview. No observed results or gain is claimed.\n\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Measure the handoff. Keep the open cases. · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/resources/source-notes",
+    "docWidth": 1440,
+    "h1": [
+      "What the sources support. And what they do not."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4570",
+    "scenes": [
+      {
+        "color": "#173F47",
+        "height": 634,
+        "y": 90
+      },
+      {
+        "color": "#2A6260",
+        "height": 1600,
+        "y": 724
+      },
+      {
+        "color": "#AFCABD",
+        "height": 1224,
+        "y": 2323
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3548
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 4004
+      }
+    ],
+    "text": "DischargeLoop\n/\nResources / Research notes\nRESOURCES / RESEARCH NOTES\nWhat the sources support. And what they do not.\n\nPrimary guidance establishes that discharge handoffs involve distinct responsibilities. It does not validate this proposed product.\n\nRequest a handoff audit\nAll resources\nResearch-stage concept · Human review by design\nIN THIS GUIDE\nClinical workflow context\nData access is a separate question\nExisting alternatives matter\nDemand remains unproven\nSave this guide\n01 / FIELD NOTE\nClinical workflow context\n\nCMS TCM guidance defines a service and its documentation requirements. AHRQ MATCH and RED describe medication reconciliation and discharge tasks. These support separating source differences, contact attempts, appointments and human review.\n\n02 / FIELD NOTE\nData access is a separate question\n\nCMS event-notification guidance has a defined scope. A notification does not give a new vendor universal data rights. Confirm the recipient, source owner, identity rules, freshness and permissible use before any later pilot.\n\n03 / FIELD NOTE\nExisting alternatives matter\n\nBamboo Health markets automated transitions with outreach and human escalation. CarePort markets referral workflows. These are vendor descriptions, not evidence that DischargeLoop offers a capability they lack.\n\n04 / FIELD NOTE\nDemand remains unproven\n\nThe supplied brief classifies support for the workflow and competition as moderate, while willingness to switch or pay remains low-evidence. No customer, revenue, ROI or pricing acceptance is established.\n\nCARRY THIS FORWARD\n\nUse the source register below to inspect the original guidance. Interpret clinical, privacy and billing requirements with the appropriate professional reviewers.\n\n↳\nORIGINAL GUIDANCE\nThe primary source register.\nCMS\nTransitional Care Management\n\nTCM is a defined service with documentation requirements.\n\nA generated draft or timeline does not establish that a service occurred or is billable.\nAHRQ\nMATCH medication reconciliation toolkit\n\nMedication-list differences belong in a defined reconciliation process with appropriate clinical involvement.\n\nThis supports the review workflow, not a claim that DischargeLoop resolves discrepancies correctly.\nAHRQ\nRe-Engineered Discharge: Tool 3\n\nFollow-up arrangements, patient needs and receiving-clinician communication are distinct discharge tasks.\n\nA documented discharge plan is not evidence of a later completed handoff.\nCMS\nADT event-notification FAQs\n\nEvent-notification requirements have defined applicability and recipients.\n\nAn ADT notification does not grant a new vendor universal access or supply a complete clinical record.\nCMS\nDischarge-planning memorandum\n\nPatient goals, preferences and relevant handoff information matter to discharge planning.\n\nA concept interface does not demonstrate that a hospital meets its obligations.\nHHS\nCloud computing and business associates\n\nFuture handling of protected health information requires an appropriate privacy/security assessment.\n\nRead-only access and a security-review checklist are not compliance certifications.\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "What the sources support. And what they do not. · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/resources/workflow-teardown",
+    "docWidth": 1440,
+    "h1": [
+      "An unanswered call is still a handoff."
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 4299",
+    "scenes": [
+      {
+        "color": "#173F47",
+        "height": 634,
+        "y": 90
+      },
+      {
+        "color": "#2A6260",
+        "height": 2058,
+        "y": 724
+      },
+      {
+        "color": "#1E5052",
+        "height": 495,
+        "y": 2781
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3277
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3733
+      }
+    ],
+    "text": "DischargeLoop\n/\nResources / Workflow teardown\nRESOURCES / WORKFLOW TEARDOWN\nAn unanswered call is still a handoff.\n\nMira’s fictional episode shows how an unresolved state can remain useful when its source, owner and next action stay connected.\n\nRequest a handoff audit\nAll resources\nResearch-stage concept · Human review by design\nIN THIS GUIDE\nThe input\nThe operational bottleneck\nThe proposed change\nThe boundary\nThe evaluation question\nSave this guide\n01 / FIELD NOTE\nThe input\n\nMira Vale is discharged on Monday 5 October 2026 at 14:00. A fictional discharge source links the episode to unresolved PCP confirmation, unknown pickup, an unanswered contact attempt and a source-list difference.\n\n02 / FIELD NOTE\nThe operational bottleneck\n\nAn unanswered contact log may sit in one place while the appointment request and source list sit elsewhere. A coordinator can know the discharge occurred without being able to see which receiving role owns the next review.\n\n03 / FIELD NOTE\nThe proposed change\n\nThe task-owner matrix puts the open item, responsible role and dated next review together. The failed call at 09:10 and escalation at 09:15 remain separate historical events. The demonstration makes no call.\n\nCONTACT-DEMO-001\n\n06 Oct · 09:10 — Unanswered attempt\n06 Oct · 09:15 — Escalated to transitions RN\n\nCONCEPT PREVIEW · SYNTHETIC DATA\n04 / FIELD NOTE\nThe boundary\n\nThe draft stays unsent. Pharmacy pickup remains unknown. The source difference remains for a pharmacist or clinician. Nothing becomes resolved merely because the interface has assigned an owner.\n\n05 / FIELD NOTE\nThe evaluation question\n\nCompare the work of finding, assigning and documenting the exception with the existing process. Include open episodes and corrections. Do not infer fewer readmissions, clinical benefit or reimbursement from the scene.\n\nCARRY THIS FORWARD\n\nThe story’s result is visibility of responsibility. Whether that visibility merits adoption still needs an authorised, measured evaluation.\n\n↳\nSEE THE RELATIONSHIP\nFollow the fictional episode.\nMira’s unresolved handoffs\n\nSource, ownership, contact history and professional review stay connected. Unknown evidence is not silently converted into completion.\n\nOpen the synthetic demo\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nRequest a handoff audit\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "An unanswered call is still a handoff. · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/company",
+    "docWidth": 1440,
+    "h1": [
+      "The work continuesafter the discharge."
+    ],
+    "painted": [],
+    "route": "M76.5 145.3984375 L56.25 145.3984375 Q36 145.3984375 36 165.6484375 L36 4348",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#2A6260",
+        "height": 765,
+        "y": 850
+      },
+      {
+        "color": "#B4CDC1",
+        "height": 950,
+        "y": 1615
+      },
+      {
+        "color": "#173F47",
+        "height": 761,
+        "y": 2566
+      },
+      {
+        "color": "#174D50",
+        "height": 456,
+        "y": 3326
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3782
+      }
+    ],
+    "text": "DischargeLoop\n/\nWhy DischargeLoop\nWHY DISCHARGELOOP\nThe work continues\nafter the discharge.\n\nThe next step deserves a source, an owner, and a place to come back to. DischargeLoop is exploring a human-accountable operating layer for that work.\n\nBring a workflow to the conversation\nRead the handoff teardown\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nCalm in character. Precise in operation. Human at every handoff.\n\n01\nA DELIBERATELY SPECIFIC BEGINNING\nOne service line.\nA measured reason to change.\n\nMake the unfinished handoff visible.\nKeep the decision with the care team.\n\nThe proposed first product is a discharge-event exception queue: unsent outreach, appointment-closure status, attributed evidence and named reviewers. Five distinct module directions preserve the responsibilities around that episode.\n\nThis is a research-stage concept. No operating product, revenue, adoption, clinical outcome, live integration or pricing acceptance is established.\n\nExpansion across service lines, post-acute networks and risk-bearing groups depends on permission, incumbent differentiation and repeatable operational value. No dollar TAM or guaranteed savings is claimed.\n\n02\nPRINCIPLES THAT SHAPE THE INTERFACE\nHuman accountability, made concrete.\n01\nSource before certainty\n\nA status should be inspectable. Missing and contradictory evidence can remain unresolved.\n\n02\nAn owner before an action\n\nMake the receiving role and next review visible. Assignment is not completion.\n\n03\nPermission before expansion\n\nNo live pilot without data rights, security approval and human oversight.\n\n04\nEvidence before scale\n\nCompare with the existing workflow, keep the denominator and accept a decision to stop.\n\n03\nLEARNING FROM THE OPERATING REALITY\nThe next conversation is with the team.\nRegional hospital associations\n\nIntroduce a transitions director and a single service line to map.\n\nACO operations peers\n\nExplore attribution, cross-setting responsibility and receiving-team workflows.\n\nPost-acute referral partners\n\nExamine the handoff, acceptance evidence and information gaps.\n\nEHR implementation partners\n\nEstablish whether a permitted source route and operating gap are practical.\n\nThese are proposed routes to learning, not claimed customers, integrations or partnerships. No unverified team biographies, endorsements or company profiles are presented.\n\n↳\nTHE NEXT POINT OF RESPONSIBILITY\nOne service line.\nOne clearer next step.\n\nMap the current handoff with a transitions director. Start with a 20-minute audit.\n\nStart a business conversation\nExplore the demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Our approach · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/contact",
+    "docWidth": 1440,
+    "h1": [
+      "A handoff worthtalking through."
+    ],
+    "painted": [],
+    "route": "M76.5 139.5 L56.25 139.5 Q36 139.5 36 159.75 L36 3369",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#245D5B",
+        "height": 1338,
+        "y": 850
+      },
+      {
+        "color": "#193F47",
+        "height": 615,
+        "y": 2188
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 2803
+      }
+    ],
+    "text": "DischargeLoop\n/\nBusiness & research conversations\nBUSINESS & RESEARCH CONVERSATIONS\nA handoff worth\ntalking through.\n\nFor transitions leaders, ACO operators, referral partners, associations and source-route conversations. Use business context only.\n\nExplore the synthetic demo first\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nThe next step starts with a conversation.\n\n01\nSTART WITH THE OPERATING CONTEXT\nWhat would you like to explore?\nWHAT HAPPENS NEXT\nOne workflow. Four useful questions.\nWhich service line are we mapping?\nWhere does ownership or evidence become hard to see?\nWho owns the next step in the current workflow?\nWould a bounded retrospective map be useful?\n\nLocal frontend preview. No delivery service or scheduling calendar is connected. No request is transmitted.\n\nDo not enter patient details, clinical narratives, records or real credentials. This site accepts no uploads or payments.\n\nBUSINESS INQUIRY / LOCAL PREVIEW\nNot connected to delivery\nRole\nHospital care-transitions leader\nDischarge-planning director\nACO population-health operator\nFrontline transitions operator\nPrivacy / security / oversight owner\nAssociation / referral / implementation partner\nOther business role\nOrganisation\nWork email\nSite / region\nWhich handoff most often remains unresolved?\nAppointment / referral closure\nContact and failed-contact escalation\nMedication-list review\nOwnership and source evidence\nSource access / integration readiness\nWorkflow interest\nFull discharge journey\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nBusiness topic\nWorkflow and buyer research\nOversight / security / source access\nRegional association introduction\nPost-acute referral conversation\nEHR implementation / source route\nI understand this is a local preview. Nothing will be submitted. I will use business context without patient information.\n\nFields stay in temporary page state and clear on reload. No lead service, tracking or analytics is connected. Preview privacy notice · v2 / 16 October 2026.\n\nPreview business inquiry\n02\nA USEFUL NEXT DECISION\nA process map.\nNot a patient-record request.\nWhat to bring\n\nBring a description of one service line, the current operating roles and the systems involved. Patient records are not needed for this website or its inquiry preview.\n\nWhat this preview does\n\nIt helps you inspect the workflow and prepare a local business inquiry. Live contact delivery and scheduling require a separately configured service and approved notice.\n\nRead the handoff-audit guide\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Business & research conversations · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/sign-in",
+    "docWidth": 1440,
+    "h1": [
+      "Your next handoff.In view."
+    ],
+    "painted": [],
+    "route": "M76.5 85 L56.25 85 Q36 85 36 105.25 L36 2374",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 1103,
+        "y": 90
+      },
+      {
+        "color": "#174D50",
+        "height": 615,
+        "y": 1193
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 1808
+      }
+    ],
+    "text": "DISCHARGELOOP / CONCEPT ACCESS\nYour next handoff.\nIn view.\n\nA source to inspect.\nAn owner to return to.\nA decision that stays human.\n\nA POINT OF RESPONSIBILITY\n\nThe loop is a relationship, not an automated decision.\n\nSynthetic preview · No live identity service\nSIGN IN\nWelcome to the concept.\n\nConcept access — customer accounts are not available yet.\nUse example credentials only. This isolated authentication preview sends nothing.\n\nEmail & password\nSecure-link preview\nWork email\nExample password\nKeep email in this tab\nAccess help\n\nNo real credentials. No external submission. Fields clear when you leave or reload.\n\nPreview sign in\nOr continue without an account\nExplore the synthetic demo\n\nNeed a guided introduction? Request a walkthrough\n\nPreview privacy\nConcept terms\n01\nACCESS THAT MATCHES THE STAGE\nA demo does not need your credentials.\nExplore without signing in.\n\nNine fictional episodes illustrate pending, blocked, completed and rejected review states. There is no live patient data, clinical endpoint or identity provider.\n\nOpen the demonstration\nDiscuss access before a pilot.\n\nA live workspace would need an operations sponsor, authorised data route, security review and human-oversight approvals. This screen does not grant that access.\n\nStart with a handoff audit\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Sign in / Concept access · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/sign-in/help",
+    "docWidth": 1440,
+    "h1": [
+      "A clearer routeback to the concept."
+    ],
+    "painted": [],
+    "route": "M76.5 85 L56.25 85 Q36 85 36 105.25 L36 2161",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 890,
+        "y": 90
+      },
+      {
+        "color": "#174D50",
+        "height": 615,
+        "y": 980
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 1595
+      }
+    ],
+    "text": "DISCHARGELOOP / CONCEPT ACCESS\nA clearer route\nback to the concept.\n\nA source to inspect.\nAn owner to return to.\nA decision that stays human.\n\nA POINT OF RESPONSIBILITY\n\nThe loop is a relationship, not an automated decision.\n\nSynthetic preview · No live identity service\nACCESS HELP\nLet’s find the right next step.\n\nConcept access — customer accounts are not available yet.\nUse example credentials only. This isolated authentication preview sends nothing.\n\nWork email\n\nNo real credentials. No external submission. Fields clear when you leave or reload.\n\nPreview access help\nOr continue without an account\nExplore the synthetic demo\n\nNeed a guided introduction? Request a walkthrough\n\nPreview privacy\nConcept terms\n01\nACCESS THAT MATCHES THE STAGE\nA demo does not need your credentials.\nExplore without signing in.\n\nNine fictional episodes illustrate pending, blocked, completed and rejected review states. There is no live patient data, clinical endpoint or identity provider.\n\nOpen the demonstration\nDiscuss access before a pilot.\n\nA live workspace would need an operations sponsor, authorised data route, security review and human-oversight approvals. This screen does not grant that access.\n\nStart with a handoff audit\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Access help · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/legal/privacy",
+    "docWidth": 1440,
+    "h1": [
+      "Preview privacy notice"
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 3884",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 526,
+        "y": 90
+      },
+      {
+        "color": "#285F5C",
+        "height": 2236,
+        "y": 616
+      },
+      {
+        "color": "#173F47",
+        "height": 465,
+        "y": 2852
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3318
+      }
+    ],
+    "text": "DischargeLoop\n/\nWebsite scope / Local preview\nWEBSITE SCOPE / LOCAL PREVIEW\nPreview privacy notice\n\nThis notice describes the actual local concept website. A production inquiry or customer service is not connected.\n\nBack to the homepage\nResearch-stage concept · Human review by design\nIN THIS NOTICE\nWhat this site does\nInquiry and access fields\nLocal files you choose to save\nStorage, fonts and tracking\nExternal references\nBefore live collection\nQuestions about the concept\nPreview notice v2 · 16 October 2026. This is a description of the local preview, not a claim that a production healthcare service has completed legal review.\n01\nWhat this site does\n\nDischargeLoop is a research-stage website and isolated synthetic workflow demonstration. All episode names, source IDs, dates and review states are fictional. The site does not connect to a hospital, EHR, phone, messaging service, billing system or identity provider.\n\n02\nInquiry and access fields\n\nBusiness inquiry and sign-in previews use temporary page state. Submission buttons prepare a local preview only; they do not transmit fields to a lead service, send email, schedule a meeting or authenticate an account. Example passwords are cleared after a sign-in preview. Do not enter real credentials, patient information or clinical narratives.\n\n03\nLocal files you choose to save\n\nA guide, blank scorecard, inquiry summary or synthetic report can be downloaded on your device. This is a local file action; no copy is sent to DischargeLoop or an external service by that control. Review any business details before saving or sharing a file.\n\n04\nStorage, fonts and tracking\n\nNo marketing analytics, advertising pixels, tracking cookies or persistent form storage are implemented. Fonts and brand assets are hosted with the local website. Page state clears when the page reloads or its route component is left. The browser may retain ordinary browsing history or downloaded files under its own settings.\n\n05\nExternal references\n\nOfficial guidance and vendor source links open external websites. Their operators control their own content and privacy practices. Linking to a source does not imply endorsement, a customer relationship or an integration.\n\n06\nBefore live collection\n\nA production form needs an approved business identity, delivery destination, purpose, retention period, consent record, deletion-request path and applicable legal review. Those arrangements are not represented as complete here. The website currently offers no live privacy-request delivery service.\n\n07\nQuestions about the concept\n\nThe Contact page contains a local business inquiry preview. It does not send a request. Until a real contact channel is configured, do not use this site to transmit private or patient information.\n\nPreview notice v2 · 16 October 2026. This is a description of the local preview, not a claim that a production healthcare service has completed legal review.\n\n↳\nKEEP THE BOUNDARIES VISIBLE\nExplore the workflow without private records.\nOpen the synthetic demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Preview privacy notice · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/legal/terms",
+    "docWidth": 1440,
+    "h1": [
+      "Concept preview terms"
+    ],
+    "painted": [],
+    "route": "M76.5 128.3984375 L56.25 128.3984375 Q36 128.3984375 36 148.6484375 L36 3851",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 526,
+        "y": 90
+      },
+      {
+        "color": "#285F5C",
+        "height": 2204,
+        "y": 616
+      },
+      {
+        "color": "#173F47",
+        "height": 465,
+        "y": 2820
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3285
+      }
+    ],
+    "text": "DischargeLoop\n/\nWebsite scope / Local preview\nWEBSITE SCOPE / LOCAL PREVIEW\nConcept preview terms\n\nA clear description of the scope you can explore. No service agreement, purchase or pilot commitment is formed by this preview.\n\nBack to the homepage\nResearch-stage concept · Human review by design\nIN THIS NOTICE\nResearch-stage scope\nSynthetic demonstration\nNo clinical or billing determination\nCommercial hypotheses\nAccounts and inquiries\nOriginal materials and references\nBefore a live pilot\nConcept terms v2 · 16 October 2026. Production legal terms require review against the actual business and deployment setup.\n01\nResearch-stage scope\n\nThe website demonstrates proposed care-transitions responsibilities and fictional product states. Product names, operating scope, demand, pricing acceptance, integrations and legal clearance remain to be validated.\n\n02\nSynthetic demonstration\n\nThe demo contains fictional names, dates, source references and review history. Local acknowledgement controls add resettable simulation notes without contacting people or writing to an external clinical, administrative or payment system.\n\n03\nNo clinical or billing determination\n\nThe content is not diagnosis, treatment, medication advice, coding guidance, a determination of service eligibility, or reimbursement assurance. Appropriate professional reviewers must interpret actual clinical, privacy, security and billing requirements.\n\n04\nCommercial hypotheses\n\nThe displayed $2,500 per facility per month and $5,000 setup fee are hypothetical test prices, not active offers or accepted terms. There is no checkout, payment collection, automatic renewal or active subscription through this website.\n\n05\nAccounts and inquiries\n\nCustomer accounts are not available. Sign-in, secure-link and access-help controls are isolated frontend previews, with no authentication or email service. Inquiry controls do not submit requests or schedule a meeting.\n\n06\nOriginal materials and references\n\nBrand assets, diagrams and interface examples were prepared for this concept. Locally hosted fonts retain their licence notices. Third-party guidance and vendor pages are linked as references; their names do not imply endorsement or a commercial relationship.\n\n07\nBefore a live pilot\n\nWritten scope, an operations sponsor, authorised source rights, security approval, human oversight, evaluation measures and a review gate are prerequisites. A separate reviewed agreement would be required before any operating service or paid pilot.\n\nConcept terms v2 · 16 October 2026. Production legal terms require review against the actual business and deployment setup.\n\n↳\nKEEP THE BOUNDARIES VISIBLE\nExplore the workflow without private records.\nOpen the synthetic demo\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Concept preview terms · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/accessibility",
+    "docWidth": 1440,
+    "h1": [
+      "Follow the storyat your own pace."
+    ],
+    "painted": [],
+    "route": "M76.5 128.5 L56.25 128.5 Q36 128.5 36 148.75 L36 4160",
+    "scenes": [
+      {
+        "color": "#174D50",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#245C5B",
+        "height": 1130,
+        "y": 850
+      },
+      {
+        "color": "#ABC7BA",
+        "height": 1062,
+        "y": 1980
+      },
+      {
+        "color": "#173F47",
+        "height": 552,
+        "y": 3042
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 3594
+      }
+    ],
+    "text": "DischargeLoop\n/\nReading and motion options\nREADING AND MOTION OPTIONS\nFollow the story\nat your own pace.\n\nNative scrolling, complete still states, readable sources and keyboard-accessible controls keep the handoff available beyond its animations.\n\nExplore the synthetic demo\nBusiness inquiry preview\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nThe content never depends on a moving line.\n\n01\nMOTION SETTINGS\nThe full story, with motion simplified.\nMotion is active.\n\nUse this control or the persistent page control to change the local reading mode.\n\nUse still mode\n01\nComplete still states\n\nThe route is fully drawn, draft text is complete, and all meaningful content remains visible. A system reduced-motion preference is respected.\n\n02\nNative page movement\n\nThere is no scroll trap or replacement scroll engine. Links and menus provide direct routes around the extended homepage story.\n\n03\nMotion with a purpose\n\nDrawing connects sources and responsibilities; typing reveals an unsent draft. No animated metric implies measured performance.\n\n02\nKEYBOARD, READING AND TOUCH\nSeveral ways through the same workflow.\n01\nKeyboard navigation\n\nUse Tab to reach links, controls and forms. Native buttons activate with Enter or Space. Dialogs close with Escape; tabs expose selected states.\n\n02\nReadable labels and evidence\n\nStatus text accompanies semantic color. Source identifiers, reviewer roles, dates and limitations remain available as real text.\n\n03\nMobile reading order\n\nThe workbench and evidence stack into ordinary document flow. No required explanation exists only in a hover state.\n\n04\nVisible focus\n\nInteractive controls have visible focus outlines. Native form labels and validation support the request and access previews.\n\n03\nSCOPE OF THE CHECKED PREVIEW\nAccessibility is a continuing review.\nWhat has been implemented\n\nResponsive layouts, native controls, labelled inputs, reduced-motion handling, skip links, dialog behavior, text contrast adaptation and alternatives to motion-dependent content.\n\nWhat is not claimed\n\nNo independent accessibility certification or exhaustive assistive-technology audit is represented. A production launch needs broader browser, device and assistive-technology testing.\n\nPrepare an accessibility inquiry\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Accessibility & motion · DischargeLoop",
+    "width": 1440
+  },
+  {
+    "path": "/missing-handoff",
+    "docWidth": 1440,
+    "h1": [
+      "This handoff needsa new route."
+    ],
+    "painted": [],
+    "route": "M76.5 144.7734375 L56.25 144.7734375 Q36 144.7734375 36 165.0234375 L36 2016",
+    "scenes": [
+      {
+        "color": "#102D3A",
+        "height": 760,
+        "y": 90
+      },
+      {
+        "color": "#174D50",
+        "height": 600,
+        "y": 850
+      },
+      {
+        "color": "#102D3A",
+        "height": 716,
+        "y": 1450
+      }
+    ],
+    "text": "DischargeLoop\n/\n404 / A route to recover\n404 / A ROUTE TO RECOVER\nThis handoff needs\na new route.\n\nThe page you followed is not in this concept website. The workflow, proposed modules and audit path are still here.\n\nReturn to the homepage\nExplore all modules\nResearch-stage concept · Human review by design\nA POINT OF RESPONSIBILITY\n\nAn open loop can still have a clear next step.\n\n01\nPICK UP THE THREAD\nWhere would you like to go?\nExplore the synthetic episode\n\nInspect sources, owners and three honest case types.\n\nFind your team’s workflow\n\nHospital and ACO operating contexts.\n\nRequest a handoff audit\n\nStart with one service line and a 20-minute process map.\n\nClose the post-discharge handoff loop.\nKeep the next step human.\n\nResearch-stage concept\nUS-first care-transitions workflow\nPROPOSED MODULES\nDischarge Desk\nDischarge Review\nDischarge Proof\nDischarge Signal\nDischarge Report\nTHE WORKFLOW\nAll modules\nShared workspace\nHow it works\nSynthetic demo\nHospital transitions\nACO population health\nEVALUATION\nPilot & pricing\nEvidence & measures\nHuman oversight\nIntegration readiness\nResources\nRequest a walkthrough\nCOMPANY\nOur approach\nContact\nRequest a handoff audit\nDiscuss a pilot\nSign in / concept access\n© 2026 DischargeLoop\nPreview privacy notice\nConcept terms\nAccessibility\n\nCONCEPT PREVIEW · Synthetic data only. No live EHR integration, patient outreach or clinical system writes. No measured outcome, reimbursement assurance or compliance certification is claimed.",
+    "title": "Page not found · DischargeLoop",
+    "width": 1440
+  }
+]

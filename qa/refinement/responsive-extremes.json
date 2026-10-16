@@ -1,0 +1,179 @@
+[
+  {
+    "path": "/",
+    "anchors": [
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      }
+    ],
+    "docWidth": 320,
+    "h1": "A clear next step.After every discharge.",
+    "width": 320
+  },
+  {
+    "path": "/products",
+    "anchors": [],
+    "docWidth": 320,
+    "h1": "Five responsibilities.One handoff loop.",
+    "width": 320
+  },
+  {
+    "path": "/products/discharge-signal",
+    "anchors": [],
+    "docWidth": 320,
+    "h1": "A difference appears.The decision stays human.",
+    "width": 320
+  },
+  {
+    "path": "/request-audit",
+    "anchors": [],
+    "docWidth": 320,
+    "h1": "Bring one service line.Find the next decision.",
+    "width": 320
+  },
+  {
+    "path": "/sign-in",
+    "anchors": [],
+    "docWidth": 320,
+    "h1": "Your next handoff.In view.",
+    "width": 320
+  },
+  {
+    "path": "/demo",
+    "anchors": [],
+    "docWidth": 320,
+    "h1": "One episode.The whole handoff in view.",
+    "width": 320
+  },
+  {
+    "path": "/",
+    "anchors": [
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      }
+    ],
+    "docWidth": 775,
+    "h1": "A clear next step.After every discharge.",
+    "width": 775
+  },
+  {
+    "path": "/products",
+    "anchors": [],
+    "docWidth": 775,
+    "h1": "Five responsibilities.One handoff loop.",
+    "width": 775
+  },
+  {
+    "path": "/products/discharge-signal",
+    "anchors": [],
+    "docWidth": 775,
+    "h1": "A difference appears.The decision stays human.",
+    "width": 775
+  },
+  {
+    "path": "/request-audit",
+    "anchors": [],
+    "docWidth": 775,
+    "h1": "Bring one service line.Find the next decision.",
+    "width": 775
+  },
+  {
+    "path": "/sign-in",
+    "anchors": [],
+    "docWidth": 775,
+    "h1": "Your next handoff.In view.",
+    "width": 775
+  },
+  {
+    "path": "/demo",
+    "anchors": [],
+    "docWidth": 775,
+    "h1": "One episode.The whole handoff in view.",
+    "width": 775
+  },
+  {
+    "path": "/",
+    "anchors": [
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "dx": 0,
+        "dy": 0
+      }
+    ],
+    "docWidth": 1024,
+    "h1": "A clear next step.After every discharge.",
+    "width": 1024
+  },
+  {
+    "path": "/products",
+    "anchors": [],
+    "docWidth": 1024,
+    "h1": "Five responsibilities.One handoff loop.",
+    "width": 1024
+  },
+  {
+    "path": "/products/discharge-signal",
+    "anchors": [],
+    "docWidth": 1024,
+    "h1": "A difference appears.The decision stays human.",
+    "width": 1024
+  },
+  {
+    "path": "/request-audit",
+    "anchors": [],
+    "docWidth": 1024,
+    "h1": "Bring one service line.Find the next decision.",
+    "width": 1024
+  },
+  {
+    "path": "/sign-in",
+    "anchors": [],
+    "docWidth": 1024,
+    "h1": "Your next handoff.In view.",
+    "width": 1024
+  },
+  {
+    "path": "/demo",
+    "anchors": [],
+    "docWidth": 1024,
+    "h1": "One episode.The whole handoff in view.",
+    "width": 1024
+  }
+]

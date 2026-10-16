@@ -1,0 +1,187 @@
+{
+  "scope": "Complete 33-page frontend website plus custom 404",
+  "inputs": [
+    "User brief and current DischargeLoop naming",
+    "Research and IA Page page_7a13b588e8e48191b1614743a0262ec9",
+    "Approved Safe Harbor brand kit",
+    "User supplied Dawn recording / extracted frames",
+    "Approved continuous-page route and background corrections"
+  ],
+  "requirements": [
+    {
+      "brief": "Core thesis, four handoffs, owners, source evidence, unsent draft",
+      "routes": [
+        "/",
+        "/how-it-works",
+        "/demo"
+      ]
+    },
+    {
+      "brief": "Exact five proposed module responsibilities, retained in order",
+      "routes": [
+        "/products",
+        "/products/discharge-desk",
+        "/products/discharge-review",
+        "/products/discharge-proof",
+        "/products/discharge-signal",
+        "/products/discharge-report"
+      ]
+    },
+    {
+      "brief": "Each product: job, user, inputs, workflow states, evidence, professional controls, output, evaluation, integration questions, FAQ and prefilled CTA",
+      "routes": [
+        "/products/discharge-desk",
+        "/products/discharge-review",
+        "/products/discharge-proof",
+        "/products/discharge-signal",
+        "/products/discharge-report"
+      ]
+    },
+    {
+      "brief": "Shared episode model, permissions, source/version/time, owner and exception history",
+      "routes": [
+        "/platform",
+        "/demo"
+      ]
+    },
+    {
+      "brief": "Nine consistent fictional episodes: pending4, blocked2, completed2, rejected1; clean/ambiguous/abstained cases; local resettable review acknowledgement",
+      "routes": [
+        "/demo"
+      ]
+    },
+    {
+      "brief": "Primary hospital buyer and secondary ACO buyer, differentiated operating questions",
+      "routes": [
+        "/solutions",
+        "/solutions/hospital-transitions",
+        "/solutions/aco-population-health"
+      ]
+    },
+    {
+      "brief": "Calls/fax/EHR, Bamboo/CarePort overlap, concrete before/proposed bottleneck and incumbent stop condition",
+      "routes": [
+        "/why-handoffs-break",
+        "/resources/source-notes",
+        "/pilot"
+      ]
+    },
+    {
+      "brief": "Authorised source, ADT, consent, choice, language, caregiver, benefits, network data, identity, freshness and security review",
+      "routes": [
+        "/integration-readiness",
+        "/oversight"
+      ]
+    },
+    {
+      "brief": "Handoff audit, staff shadowing, bounded retrospective cohort and conditional paid pilot; sponsor, written scope, owner, input contracts, time box and review gate",
+      "routes": [
+        "/pilot",
+        "/request-audit",
+        "/request-pilot"
+      ]
+    },
+    {
+      "brief": "Hypothetical $2500/facility/month + $5000 setup, adjacent non-offer label; no checkout",
+      "routes": [
+        "/pilot#commercial-model",
+        "/"
+      ]
+    },
+    {
+      "brief": "Primary staff-minutes vs baseline, active effort separate from elapsed time, contact/appointment measures, unreachable escalation and erroneous closure guardrails, denominator/open cases/uncertainty",
+      "routes": [
+        "/evidence",
+        "/resources/pilot-scorecard"
+      ]
+    },
+    {
+      "brief": "8 qualified interviews,2 approved cohort reviews,1 conditional sponsor with ADT/security route, signed data/security/oversight approvals; stop without owner/source route or if incumbent comparable",
+      "routes": [
+        "/pilot",
+        "/request-pilot"
+      ]
+    },
+    {
+      "brief": "Source-backed workflow context and explicit demand/outcome/price/integration limitations",
+      "routes": [
+        "/evidence",
+        "/resources/source-notes"
+      ]
+    },
+    {
+      "brief": "Vision, mission, honest stage, acquisition routes and conditional expansion; no fabricated founders/social links/customer proof",
+      "routes": [
+        "/company",
+        "/contact"
+      ]
+    },
+    {
+      "brief": "Complete minimal business inquiry, product-interest context, no PHI/uploads, native validation, local preparing/result/edit/download states and notice",
+      "routes": [
+        "/request-audit",
+        "/request-demo",
+        "/request-pilot",
+        "/contact"
+      ]
+    },
+    {
+      "brief": "Polished sign-in, example credentials, show/hide, tab email retention, secure-link preview, access-help and no false authentication",
+      "routes": [
+        "/sign-in",
+        "/sign-in/help"
+      ]
+    },
+    {
+      "brief": "Substantive guides, source register, downloadable blank scorecard and original synthetic report",
+      "routes": [
+        "/resources",
+        "/resources/handoff-audit",
+        "/resources/pilot-scorecard",
+        "/resources/source-notes",
+        "/resources/workflow-teardown",
+        "/demo"
+      ]
+    },
+    {
+      "brief": "Privacy, terms, accessibility and useful 404 recovery",
+      "routes": [
+        "/legal/privacy",
+        "/legal/terms",
+        "/accessibility",
+        "Custom 404"
+      ]
+    },
+    {
+      "brief": "Brand mark/favicon, licensed local typography, full desktop/mobile menus/footer and cross-page journeys",
+      "routes": [
+        "Every page"
+      ]
+    },
+    {
+      "brief": "Each page uses one shared continuous background with scroll color changes, connected route, purposeful motion and complete still state; richer teal/ink, limited pale sage contrast",
+      "routes": [
+        "Every page"
+      ]
+    }
+  ],
+  "validation": [
+    "qa/full-site/route-audit-desktop.json",
+    "qa/full-site/route-audit-mobile.json",
+    "qa/full-site/motion-audit.json",
+    "design-qa.md",
+    "qa/refinement/brief-content-checks.json",
+    "qa/refinement/desktop-continuity-final.json",
+    "qa/refinement/mobile-continuity-final.json",
+    "qa/refinement/responsive-extremes.json"
+  ],
+  "not_claimed_complete": [
+    "Live customer authentication",
+    "Live lead/email/calendar delivery",
+    "Clinical product or live EHR integrations",
+    "Analytics/campaign deployment",
+    "Actual buyer interviews, cohort reviews or pilot readiness",
+    "Trademark/domain clearance",
+    "Public deployment, custom domain or production legal review"
+  ]
+}

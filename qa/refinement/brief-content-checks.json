@@ -1,0 +1,199 @@
+[
+  {
+    "requirement": "Five offers in order",
+    "path": "/products",
+    "checked_terms": [
+      "Discharge Desk",
+      "Discharge Review",
+      "Discharge Proof",
+      "Discharge Signal",
+      "Discharge Report"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Primary buyer",
+    "path": "/solutions/hospital-transitions",
+    "checked_terms": [
+      "director",
+      "service line",
+      "staff"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Secondary buyer",
+    "path": "/solutions/aco-population-health",
+    "checked_terms": [
+      "attribution",
+      "receiving",
+      "rights"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Alternatives and stop condition",
+    "path": "/why-handoffs-break",
+    "checked_terms": [
+      "Bamboo",
+      "CarePort",
+      "comparable",
+      "budget"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Commercial hypothesis",
+    "path": "/pilot",
+    "checked_terms": [
+      "$2,500",
+      "$5,000",
+      "not an active offer",
+      "8",
+      "2",
+      "1",
+      "signed",
+      "stop"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Measurement and guardrails",
+    "path": "/evidence",
+    "checked_terms": [
+      "median staff minutes",
+      "baseline",
+      "elapsed",
+      "Unreachable",
+      "Erroneous",
+      "denominator",
+      "uncertainty"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Professional review",
+    "path": "/products/discharge-signal",
+    "checked_terms": [
+      "pharmacist",
+      "source",
+      "uncertainty",
+      "review"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "TCM boundary",
+    "path": "/products/discharge-report",
+    "checked_terms": [
+      "TCM",
+      "billing",
+      "missing",
+      "eligibility"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Data contract and governance",
+    "path": "/integration-readiness",
+    "checked_terms": [
+      "ADT",
+      "Identity",
+      "freshness",
+      "caregiver",
+      "choice",
+      "language",
+      "benefits",
+      "retention",
+      "security"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Permission and abstention",
+    "path": "/oversight",
+    "checked_terms": [
+      "permission",
+      "abstain",
+      "clinician",
+      "Billing",
+      "reversible"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Synthetic queue and evidence",
+    "path": "/demo",
+    "checked_terms": [
+      "All",
+      "9",
+      "Pending",
+      "4",
+      "Blocked",
+      "2",
+      "Completed",
+      "Rejected",
+      "Unsent",
+      "DEMO",
+      "SYNTHETIC"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Current stage and expansion",
+    "path": "/company",
+    "checked_terms": [
+      "research-stage",
+      "service lines",
+      "Regional hospital associations",
+      "post-acute",
+      "EHR"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Audit inquiry and agenda",
+    "path": "/request-audit",
+    "checked_terms": [
+      "20-minute",
+      "Role",
+      "Organisation",
+      "Work email",
+      "Site / region",
+      "Which handoff",
+      "No request"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Concept access boundary",
+    "path": "/sign-in",
+    "checked_terms": [
+      "customer accounts are not available",
+      "Example password",
+      "Access help",
+      "identity"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Privacy and storage",
+    "path": "/legal/privacy",
+    "checked_terms": [
+      "temporary",
+      "No marketing analytics",
+      "notice"
+    ],
+    "missing_from_initial_visible_state": []
+  },
+  {
+    "requirement": "Accessibility reading alternatives",
+    "path": "/accessibility",
+    "checked_terms": [
+      "still",
+      "keyboard",
+      "Native"
+    ],
+    "missing_from_initial_visible_state": []
+  }
+]

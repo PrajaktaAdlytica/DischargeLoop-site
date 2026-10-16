@@ -1,0 +1,165 @@
+{
+  "scope": "Complete concept homepage; no live product or deployment",
+  "brief_priority": "Current user instruction and DischargeLoop naming override historical no-build text and old working brand in the attached source.",
+  "approved_inputs": [
+    "Original concept brief",
+    "Completed research and IA",
+    "Approved Safe Harbor brand kit",
+    "Approved connected story and browser annotation fixes"
+  ],
+  "sections": [
+    {
+      "id": "discharge",
+      "covers": [
+        "Core handoff-loop thesis",
+        "Mira Vale Monday discharge",
+        "Four unresolved handoffs",
+        "20-minute audit CTA",
+        "Synthetic data disclosure"
+      ]
+    },
+    {
+      "id": "handoffs",
+      "covers": [
+        "PCP unresolved",
+        "Pickup unconfirmed",
+        "Unanswered contact",
+        "Source-linked medication difference",
+        "Operational bottleneck and uncertainty"
+      ]
+    },
+    {
+      "id": "owners / review",
+      "covers": [
+        "Journey rail",
+        "Task-owner matrix",
+        "Dated next reviews",
+        "Failed-contact escalation",
+        "Unsent outreach",
+        "Source evidence dialog",
+        "Human review"
+      ]
+    },
+    {
+      "id": "products",
+      "covers": [
+        "Exact five source responsibilities in order",
+        "Discharge Desk first pilot candidate",
+        "Distinct module inputs / outputs / reviewer boundaries",
+        "Nine-record sample queue: pending4, blocked2, completed2, rejected1",
+        "Source-comparison and timeline views",
+        "Proposed-offer labels"
+      ]
+    },
+    {
+      "id": "platform",
+      "covers": [
+        "Shared episode / roles / permissions / evidence / history",
+        "Clean case",
+        "Ambiguous case",
+        "Blocked / abstained case",
+        "Source IDs and timestamps"
+      ]
+    },
+    {
+      "id": "teams",
+      "covers": [
+        "Hospital buyer / operator",
+        "Secondary ACO buyer",
+        "EHR / calls / fax alternatives",
+        "Bamboo and CarePort primary vendor links",
+        "No integration claim"
+      ]
+    },
+    {
+      "id": "oversight",
+      "covers": [
+        "Consent",
+        "Caregiver authority",
+        "Language access",
+        "Patient choice",
+        "Named human reviewers",
+        "Permission / source staleness blocks",
+        "Data access and security approvals"
+      ]
+    },
+    {
+      "id": "evaluation / research",
+      "covers": [
+        "Primary staff-minutes measure vs baseline",
+        "Active effort distinct from elapsed time",
+        "Time-to-contact",
+        "Appointment closure",
+        "Unreachable escalation completion",
+        "Erroneous closure count",
+        "Denominator / baseline window / open cases / uncertainty",
+        "CMS and AHRQ primary sources",
+        "No measured gain claimed"
+      ]
+    },
+    {
+      "id": "pilot",
+      "covers": [
+        "Handoff audit",
+        "Staff shadowing / bounded retrospective cohort",
+        "Written paid-pilot scope / owner / review gate / input contracts",
+        "Hypothetical $2500 per facility per month + $5000 setup",
+        "8 interviews / 2 approved cohort reviews / 1 conditional sponsor prerequisites",
+        "Signed data / security / oversight approvals",
+        "Budget / source-route / incumbent stop conditions"
+      ]
+    },
+    {
+      "id": "company",
+      "covers": [
+        "Vision and mission",
+        "Regional hospital associations",
+        "ACO operations peers",
+        "Post-acute referral partners",
+        "EHR implementation partners",
+        "Conditional expansion hypothesis"
+      ]
+    },
+    {
+      "id": "faq / next / footer",
+      "covers": [
+        "Availability and scope",
+        "Alternatives and tradeoffs",
+        "Human review / billing limitations",
+        "Integration discovery / benefits / network data quality",
+        "Price and pilot questions",
+        "Audit / contact CTA",
+        "Working navigation",
+        "Privacy / concept terms / accessibility / concept access"
+      ]
+    },
+    {
+      "id": "audit dialog",
+      "covers": [
+        "Role",
+        "Organisation",
+        "Work email",
+        "Site / region",
+        "Workflow-fit question",
+        "No patient data / uploads",
+        "Required preview acknowledgement",
+        "Notice version",
+        "Local preview result; no external submission"
+      ]
+    }
+  ],
+  "not_homepage_work": [
+    "Real interviews and demand validation",
+    "Notion publication",
+    "Ad execution and campaign analytics",
+    "Live lead delivery and consent timestamp / UTM storage",
+    "Name and domain legal clearance",
+    "Pilot security approval",
+    "Live product integrations",
+    "Independent product pages",
+    "Production sign-in",
+    "GitHub / Vercel / domain deployment"
+  ],
+  "claims_policy": "Fictional records only. No fake customers, endorsements, live connections, measured ROI, clinical benefit, billability guarantee or security certification.",
+  "superseded_by": "website-coverage.json \u2014 complete website phase"
+}

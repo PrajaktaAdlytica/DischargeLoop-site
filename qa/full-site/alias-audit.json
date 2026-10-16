@@ -1,0 +1,34 @@
+[
+  {
+    "from": "/pricing",
+    "to": "http://localhost:8732/pilot#commercial-model"
+  },
+  {
+    "from": "/results",
+    "to": "http://localhost:8732/evidence"
+  },
+  {
+    "from": "/about",
+    "to": "http://localhost:8732/company"
+  },
+  {
+    "from": "/integrations",
+    "to": "http://localhost:8732/integration-readiness"
+  },
+  {
+    "from": "/trust",
+    "to": "http://localhost:8732/oversight"
+  },
+  {
+    "from": "/security",
+    "to": "http://localhost:8732/oversight"
+  },
+  {
+    "from": "/privacy",
+    "to": "http://localhost:8732/legal/privacy"
+  },
+  {
+    "from": "/terms",
+    "to": "http://localhost:8732/legal/terms"
+  }
+]

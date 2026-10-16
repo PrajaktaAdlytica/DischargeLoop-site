@@ -1,0 +1,26 @@
+[
+  {
+    "page": 775,
+    "path": "/",
+    "route": true,
+    "width": 775
+  },
+  {
+    "page": 775,
+    "path": "/products/discharge-signal",
+    "route": true,
+    "width": 775
+  },
+  {
+    "page": 775,
+    "path": "/sign-in",
+    "route": true,
+    "width": 775
+  },
+  {
+    "page": 775,
+    "path": "/demo",
+    "route": true,
+    "width": 775
+  }
+]
