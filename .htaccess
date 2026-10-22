@@ -1,0 +1,14 @@
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+
+RewriteEngine On
+# Prevent access to Git metadata if the hosting checkout retains it.
+RewriteRule (^|/)\.git(?:/|$) - [F,L,NC]
+# Serve existing assets and directories normally.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+# Missing static assets must remain 404s rather than receive HTML.
+RewriteRule ^(?:assets|brand)/ - [L]
+# React history routes, including /oversight and /request-audit.
+RewriteRule ^ index.html [L]
