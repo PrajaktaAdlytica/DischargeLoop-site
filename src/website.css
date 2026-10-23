@@ -65,3 +65,5 @@
 @media(min-width:801px){.app .sticky-workbench,.app .article-toc,.app .request-agenda{top:calc(var(--site-header-height) + 16px)}}
 @media(max-width:1080px){.app{--site-header-height:80px}.global-header nav{top:var(--site-header-height);max-height:calc(100svh - var(--site-header-height));overscroll-behavior:contain}.global-mega{max-height:none;overflow:visible}}
 @media(max-width:800px){.app{--site-header-height:78px}}
+
+.company-address{font-style:normal;font-size:16px;line-height:1.65;margin:20px 0;color:inherit}.footer-columns .company-address{font-size:14px;margin:0 0 22px}.funding-announcement{display:grid;gap:4px;border-left:3px solid var(--orange);padding:10px 0 10px 16px;margin-bottom:28px;font-size:15px;line-height:1.45}.funding-announcement strong{font-size:12px;letter-spacing:.1em;text-transform:uppercase}
