@@ -1,6 +1,6 @@
 # DischargeLoop Hostinger deployment
 
-Built from main commit `d56e917fc1a8adad760006966b7cef3c442bc63b`.
+Built from main commit `59c31644c3f60e14dce5e3cb471913f183c21ebe`.
 
 Connect `PrajaktaAdlytica/DischargeLoop-site`, branch `hostinger-deploy`, to the DischargeLoop custom PHP/HTML website's `public_html` directory. These files are prebuilt; no npm install, server command or build step is needed on Hostinger. The included .htaccess preserves direct page links.
 
